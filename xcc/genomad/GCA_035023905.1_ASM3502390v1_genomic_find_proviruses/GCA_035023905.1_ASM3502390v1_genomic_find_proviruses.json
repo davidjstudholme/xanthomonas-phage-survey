@@ -1,0 +1,18 @@
+{
+    "module": "find-proviruses",
+    "input": "GCA_035023905.1_ASM3502390v1_genomic.fna",
+    "input_md5": "c6af15ea6f2174f7dccd8756247f99f4",
+    "start_time": "2025-11-08T14:56:41.680485+00:00",
+    "parameters": {
+        "skip_integrase_identification": false,
+        "skip_trna_identification": false,
+        "crf_threshold": 0.4,
+        "marker_threshold": 12.0,
+        "marker_threshold_integrase": 8.0,
+        "marker_threshold_edge": 8.0,
+        "max_integrase_distance": 10000,
+        "max_trna_distance": 5000,
+        "sensitivity": 8.2,
+        "evalue": 0.001
+    }
+}

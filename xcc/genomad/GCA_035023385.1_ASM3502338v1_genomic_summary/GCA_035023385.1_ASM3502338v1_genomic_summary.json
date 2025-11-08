@@ -1,0 +1,18 @@
+{
+    "module": "summary",
+    "input": "GCA_035023385.1_ASM3502338v1_genomic.fna",
+    "input_md5": "6fe02348d23c2d8503c50edfa106f28e",
+    "start_time": "2025-11-08T14:24:56.634213+00:00",
+    "parameters": {
+        "min_score": 0.7,
+        "max_fdr": 0.1,
+        "min_number_genes": 1,
+        "min_plasmid_hallmarks": 0,
+        "min_plasmid_hallmarks_short_seqs": 1,
+        "min_virus_hallmarks": 0,
+        "min_virus_hallmarks_short_seqs": 1,
+        "min_plasmid_marker_enrichment": 0.1,
+        "min_virus_marker_enrichment": 0.0,
+        "max_uscg": 4
+    }
+}

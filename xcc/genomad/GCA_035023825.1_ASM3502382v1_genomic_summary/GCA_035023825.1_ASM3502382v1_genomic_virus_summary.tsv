@@ -1,0 +1,5 @@
+seq_name	length	topology	coordinates	n_genes	genetic_code	virus_score	fdr	n_hallmarks	marker_enrichment	taxonomy
+JAYIMO010000062.1	925	No terminal repeats	NA	2	11	0.9993	NA	2	2.6409	Viruses;Monodnaviria;Loebvirae;Hofneiviricota;Faserviricetes;Tubulavirales;Inoviridae
+JAYIMO010000046.1	4663	No terminal repeats	NA	9	11	0.9992	NA	2	11.3327	Viruses;Monodnaviria;Loebvirae;Hofneiviricota;Faserviricetes;Tubulavirales;Inoviridae
+JAYIMO010000001.1|provirus_84371_123609	39239	Provirus	84371-123609	54	11	0.9991	NA	18	54.7686	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAYIMO010000074.1	273	No terminal repeats	NA	1	11	0.9971	NA	1	1.3935	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;

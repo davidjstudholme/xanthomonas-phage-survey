@@ -1,0 +1,5 @@
+JAYIMN010000005.1_3 # 5958 # 6929 # -1 # ID=5_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.697	TIGR02225	2.463E-117	367
+JAYIMN010000025.1_53 # 69148 # 71028 # 1 # ID=25_53;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.578	PRK09692	9.502E-56	198
+JAYIMN010000001.1_18 # 19045 # 20370 # -1 # ID=1_18;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.585	PF00589.RP35	2.215E-12	59
+JAYIMN010000027.1_32 # 41311 # 42279 # -1 # ID=27_32;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.689	PF00589.RP35	5.456E-13	60
+JAYIMN010000015.1_2 # 71 # 1378 # -1 # ID=15_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.596	PF00589.RP35	3.701E-07	42

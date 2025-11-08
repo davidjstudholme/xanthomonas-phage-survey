@@ -1,0 +1,14 @@
+seq_name	length	topology	n_genes	genetic_code	plasmid_score	fdr	n_hallmarks	marker_enrichment	conjugation_genes	amr_genes
+JAUIOB010000032.1	41761	No terminal repeats	42	11	1.0000	NA	17	36.6161	MOBH;G_tfc19;G_tfc18;G_tfc22;G_tfc23;G_tfc24;virb4;G_tfc15;G_tfc14;G_tfc13;G_tfc12;G_tfc11;G_tfc10;G_tfc9;G_tfc8;G_tfc7;t4cp1;G_tfc5;T_virB1;G_tfc3;G_tfc2	NA
+JAUIOB010000068.1	3706	No terminal repeats	5	11	1.0000	NA	0	3.8793	NA	NA
+JAUIOB010000053.1	16100	No terminal repeats	17	11	1.0000	NA	1	4.1647	NA	NA
+JAUIOB010000059.1	8527	No terminal repeats	8	11	0.9999	NA	0	2.5688	NA	NA
+JAUIOB010000058.1	9237	No terminal repeats	11	11	0.9999	NA	0	1.5596	NA	NA
+JAUIOB010000016.1	100336	No terminal repeats	99	11	0.9998	NA	1	2.9055	MOBQ	NF000496
+JAUIOB010000070.1	3179	No terminal repeats	4	11	0.9998	NA	1	3.4366	T_virB6	NA
+JAUIOB010000066.1	5849	No terminal repeats	5	11	0.9996	NA	0	1.5922	NA	NA
+JAUIOB010000061.1	8046	No terminal repeats	10	11	0.9993	NA	0	0.7327	NA	NA
+JAUIOB010000037.1	36738	No terminal repeats	30	11	0.9982	NA	0	3.3434	NA	NA
+JAUIOB010000072.1	2782	No terminal repeats	3	11	0.9972	NA	2	2.6906	T_virB6;virb4	NA
+JAUIOB010000047.1	27119	No terminal repeats	25	11	0.9879	NA	0	1.6063	NA	NA
+JAUIOB010000057.1	9649	No terminal repeats	7	11	0.9815	NA	0	0.2071	NA	NA

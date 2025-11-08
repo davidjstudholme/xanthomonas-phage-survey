@@ -1,0 +1,2 @@
+seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
+JAYINM010000024.1|provirus_16011_23348	JAYINM010000024.1	16011	23348	7338	13	12.7338	False	NA

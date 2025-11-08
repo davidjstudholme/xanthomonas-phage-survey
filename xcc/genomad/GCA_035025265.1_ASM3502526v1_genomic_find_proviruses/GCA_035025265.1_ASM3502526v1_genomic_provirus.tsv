@@ -1,0 +1,2 @@
+seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
+JAYIOV010000001.1|provirus_10369_47506	JAYIOV010000001.1	10369	47506	37138	46	61.5285	False	JAYIOV010000001.1|provirus_10369_47506_57

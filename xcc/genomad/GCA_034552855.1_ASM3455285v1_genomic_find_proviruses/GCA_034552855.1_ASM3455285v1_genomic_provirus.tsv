@@ -1,0 +1,3 @@
+seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
+JAUINS010000040.1|provirus_39340_44298	JAUINS010000040.1	39340	44298	4959	9	11.2279	True	NA
+JAUINS010000056.1|provirus_63_6476	JAUINS010000056.1	63	6476	6414	12	17.7524	True	NA

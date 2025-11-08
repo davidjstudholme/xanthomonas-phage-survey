@@ -1,0 +1,5 @@
+gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
+JAUIPI010000084.1_1	2	427	426	1	0.655	11	None	GENOMAD.119442.VP	6.279e-26	105	0	0	1	1246	Caudoviricetes	NA	NA	PF04717;COG4540;TIGR01644	Phage P2 baseplate assembly protein gpV
+JAUIPI010000084.1_2	592	1473	882	-1	0.486	11	GGA/GAG/AGG	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+JAUIPI010000084.1_3	1818	2081	264	1	0.591	11	AGGAG	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+JAUIPI010000084.1_4	2075	2431	357	1	0.639	11	4Base/6BMM	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
