@@ -1,0 +1,7 @@
+{
+    "module": "aggregated_classification",
+    "input": "GCA_035025625.1_ASM3502562v1_genomic.fna",
+    "input_md5": "a8d69dfe0cbb10aea6c04203b36efbb5",
+    "start_time": "2025-11-08T15:37:50.490618+00:00",
+    "parameters": {}
+}
