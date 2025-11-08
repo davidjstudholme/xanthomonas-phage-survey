@@ -11,3 +11,9 @@
 ╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
 [15:33:06] Executing genomad annotate.                                                                                                                                 
 [15:33:06] Creating the genomad/GCA_035025585.1_ASM3502558v1_genomic_annotate directory.                                                                               
+[15:33:09] Proteins predicted with pyrodigal-gv were written to GCA_035025585.1_ASM3502558v1_genomic_proteins.faa.                                                     
+[15:34:22] Proteins annotated with MMseqs2 and geNomad database (v1.9) were written to GCA_035025585.1_ASM3502558v1_genomic_mmseqs2.tsv.                               
+[15:34:22] Deleting GCA_035025585.1_ASM3502558v1_genomic_mmseqs2.                                                                                                      
+[15:34:23] Gene data was written to GCA_035025585.1_ASM3502558v1_genomic_genes.tsv.                                                                                    
+[15:34:23] Taxonomic assignment data was written to GCA_035025585.1_ASM3502558v1_genomic_taxonomy.tsv.                                                                 
+[15:34:23] geNomad annotate finished!                                                                                                                                  

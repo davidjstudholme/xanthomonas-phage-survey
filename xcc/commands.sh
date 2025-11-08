@@ -6,6 +6,7 @@ chmod u+x datasets
 ./datasets download genome accession --inputfile assm_accs.txt --include genome --filename genome_assemblies.zip
 unzip genome_assemblies.zip
 ln -s ncbi_dataset/data/GCA_*/GCA_*.fna
+rm README.md
 
 ### Install and run  PADLOC
 conda create -n padloc_env
