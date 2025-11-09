@@ -1,0 +1,10 @@
+JAYIOH010000001.1_139 # 149049 # 150020 # 1 # ID=1_139;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.704	TIGR02225	2.463E-117	367
+JAYIOH010000002.1_146 # 163497 # 165041 # 1 # ID=2_146;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.544	PF00589.RP35	9.432E-07	41
+JAYIOH010000046.1_12 # 13680 # 14927 # 1 # ID=46_12;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.504	PF00589.RP35	1.336E-14	66
+JAYIOH010000002.1_145 # 162214 # 163500 # 1 # ID=2_145;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.576	PF00589.RP35	1.029E-12	60
+JAYIOH010000002.1_147 # 165034 # 167100 # 1 # ID=2_147;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.549	PF00589.RP35	1.120E-05	38
+JAYIOH010000010.1_124 # 142308 # 143087 # 1 # ID=10_124;partial=00;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.605	PF00589.RP35	1.416E-14	64
+JAYIOH010000010.1_123 # 140757 # 142229 # 1 # ID=10_123;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.613	PF00589.RP35	3.761E-10	52
+JAYIOH010000002.1_182 # 227000 # 228280 # 1 # ID=2_182;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.532	PF00589.RP35	2.078E-12	59
+JAYIOH010000006.1_144 # 165738 # 166928 # 1 # ID=6_144;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.589	PRK09692	7.331E-43	153
+JAYIOH010000010.1_134 # 152530 # 153909 # -1 # ID=10_134;partial=01;start_type=Edge;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.607	PF00589.RP35	6.836E-14	64

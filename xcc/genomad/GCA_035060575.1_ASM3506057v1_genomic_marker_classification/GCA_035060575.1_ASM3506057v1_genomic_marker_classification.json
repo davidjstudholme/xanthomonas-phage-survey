@@ -1,0 +1,7 @@
+{
+    "module": "marker_classification",
+    "input": "GCA_035060575.1_ASM3506057v1_genomic.fna",
+    "input_md5": "27d9cd232ced6a6a24738fdf540022b0",
+    "start_time": "2025-11-08T19:18:32.984002+00:00",
+    "parameters": {}
+}

@@ -1,0 +1,28 @@
+╭─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│  Executing geNomad find-proviruses (v1.11.1). This will find putative proviral regions within the input sequences.                                                  │
+│  ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────  │
+│  Outputs:                                                                                                                                                           │
+│    genomad/GCA_040193615.1_ASM4019361v1_genomic_find_proviruses                                                                                                     │
+│    ├── GCA_040193615.1_ASM4019361v1_genomic_find_proviruses.json (execution parameters)                                                                             │
+│    ├── GCA_040193615.1_ASM4019361v1_genomic_provirus.tsv (provirus data)                                                                                            │
+│    ├── GCA_040193615.1_ASM4019361v1_genomic_provirus.fna (provirus nucleotide sequences)                                                                            │
+│    ├── GCA_040193615.1_ASM4019361v1_genomic_provirus_proteins.faa (provirus protein sequences)                                                                      │
+│    ├── GCA_040193615.1_ASM4019361v1_genomic_provirus_genes.tsv (provirus gene annotation data)                                                                      │
+│    ├── GCA_040193615.1_ASM4019361v1_genomic_provirus_taxonomy.tsv (provirus taxonomic assignment)                                                                   │
+│    ├── GCA_040193615.1_ASM4019361v1_genomic_provirus_mmseqs2.tsv (MMseqs2 output file)                                                                              │
+│    └── GCA_040193615.1_ASM4019361v1_genomic_provirus_aragorn.tsv (Aragorn output file)                                                                              │
+╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+[20:09:53] Executing genomad find-proviruses.                                                                                                                          
+[20:09:53] Creating the genomad/GCA_040193615.1_ASM4019361v1_genomic_find_proviruses directory.                                                                        
+[20:09:56] Integrases identified with MMseqs2 and geNomad database (v1.9) were written to GCA_040193615.1_ASM4019361v1_genomic_provirus_mmseqs2.tsv.                   
+[20:09:56] Deleting GCA_040193615.1_ASM4019361v1_genomic_provirus_mmseqs2.                                                                                             
+[20:09:56] Deleting GCA_040193615.1_ASM4019361v1_genomic_provirus_mmseqs2_input.faa.                                                                                   
+[20:09:57] tRNAs identified with Aragorn were written to GCA_040193615.1_ASM4019361v1_genomic_provirus_aragorn.tsv.                                                    
+[20:09:57] Deleting GCA_040193615.1_ASM4019361v1_genomic_provirus_aragorn_input.fna.                                                                                   
+[20:09:57] Provirus regions identified.                                                                                                                                
+[20:09:57] Provirus data was written to GCA_040193615.1_ASM4019361v1_genomic_provirus.tsv.                                                                             
+[20:09:57] Provirus nucleotide sequences were written to GCA_040193615.1_ASM4019361v1_genomic_provirus.fna.                                                            
+[20:09:58] Provirus protein sequences were written to GCA_040193615.1_ASM4019361v1_genomic_provirus_proteins.faa.                                                      
+[20:09:58] Provirus gene data was written to GCA_040193615.1_ASM4019361v1_genomic_provirus_genes.tsv.                                                                  
+[20:09:58] Taxonomic assignment data was written to GCA_040193615.1_ASM4019361v1_genomic_provirus_taxonomy.tsv.                                                        
+[20:09:58] geNomad find-proviruses finished!                                                                                                                           

@@ -1,0 +1,2 @@
+seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
+JBEFUD010000043.1|provirus_1_5846	JBEFUD010000043.1	1	5846	5846	11	15.8047	True	NA

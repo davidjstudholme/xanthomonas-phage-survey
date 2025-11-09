@@ -1,0 +1,6 @@
+gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
+JAYIRZ010000075.1_1	1	294	294	-1	0.656	11	None	GENOMAD.138177.VP	3.282e-22	92	0	0	1	1246	Caudoviricetes	NA	NA	PF04717;PF18715;COG4540;TIGR01644	Phage P2 baseplate assembly protein gpV
+JAYIRZ010000075.1_2	373	600	228	-1	0.561	11	None	GENOMAD.169047.VV	1.543e-34	126	0	0	0	1	NA	NA	NA	NA	NA
+JAYIRZ010000075.1_3	602	1807	1206	-1	0.654	11	None	GENOMAD.032536.VV	4.122e-39	154	0	0	1	1246	Caudoviricetes	NA	NA	COG5301	Phage-related tail fibre protein
+JAYIRZ010000075.1_4	1811	2323	513	-1	0.645	11	None	GENOMAD.114503.VV	6.848e-29	115	0	0	1	1246	Caudoviricetes	NA	NA	PF09684;COG4385;TIGR01634	Bacteriophage P2-related tail formation protein
+JAYIRZ010000075.1_5	2352	3242	891	-1	0.639	11	None	GENOMAD.105501.VV	3.602e-87	290	0	0	1	1246	Caudoviricetes	NA	NA	PF03434;COG3948	Phage-related baseplate assembly protein

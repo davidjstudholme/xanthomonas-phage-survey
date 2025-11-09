@@ -1,0 +1,2 @@
+seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
+CP168114.1|provirus_3367285_3377975	CP168114.1	3367285	3377975	10691	13	14.8938	False	CP168114.1|provirus_3367285_3377975_2802

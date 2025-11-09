@@ -1,0 +1,19 @@
+╭─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│  Executing geNomad nn-classification (v1.11.1). This will classify the input sequences into chromosome, plasmid, or virus based on the nucleotide sequence.         │
+│  ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────  │
+│  Outputs:                                                                                                                                                           │
+│    genomad/GCA_035025745.1_ASM3502574v1_genomic_nn_classification                                                                                                   │
+│    ├── GCA_035025745.1_ASM3502574v1_genomic_nn_classification.json (execution parameters)                                                                           │
+│    ├── GCA_035025745.1_ASM3502574v1_genomic_encoded_sequences (directory containing encoded sequence data)                                                          │
+│    ├── GCA_035025745.1_ASM3502574v1_genomic_nn_classification.tsv (contig classification: tabular format)                                                           │
+│    └── GCA_035025745.1_ASM3502574v1_genomic_nn_classification.npz (contig classification: binary format)                                                            │
+╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+[15:46:27] Executing genomad nn-classification.                                                                                                                        
+[15:46:27] Creating the genomad/GCA_035025745.1_ASM3502574v1_genomic_nn_classification directory.                                                                      
+[15:46:27] Creating the genomad/GCA_035025745.1_ASM3502574v1_genomic_nn_classification/GCA_035025745.1_ASM3502574v1_genomic_encoded_sequences directory.               
+[15:46:28] Encoded sequence data written to GCA_035025745.1_ASM3502574v1_genomic_encoded_sequences.                                                                    
+[15:46:35] Sequences classified.                                                                                                                                       
+[15:46:35] Sequence classification in binary format written to GCA_035025745.1_ASM3502574v1_genomic_nn_classification.npz.                                             
+[15:46:35] Deleting encoded sequence data.                                                                                                                             
+[15:46:35] Sequence classification in tabular format written to GCA_035025745.1_ASM3502574v1_genomic_nn_classification.tsv.                                            
+[15:46:35] geNomad nn-classification finished!                                                                                                                         

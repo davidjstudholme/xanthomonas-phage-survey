@@ -1,0 +1,2 @@
+seq_name	length	topology	coordinates	n_genes	genetic_code	virus_score	fdr	n_hallmarks	marker_enrichment	taxonomy
+JBEFUZ010000007.1|provirus_84680_123918	39239	Provirus	84680-123918	54	11	0.9991	NA	18	54.7686	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;

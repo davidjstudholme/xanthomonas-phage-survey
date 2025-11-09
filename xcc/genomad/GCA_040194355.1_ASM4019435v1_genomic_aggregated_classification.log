@@ -1,0 +1,22 @@
+╭──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│  Executing geNomad aggregated-classification (v1.11.1). This will aggregate the results of the marker-classification and nn-classification modules to    │
+│  classify the input sequences into chromosome, plasmid, or virus.                                                                                        │
+│  ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────  │
+│  Outputs:                                                                                                                                                │
+│    genomad/GCA_040194355.1_ASM4019435v1_genomic_aggregated_classification                                                                                │
+│    ├── GCA_040194355.1_ASM4019435v1_genomic_aggregated_classification.json (execution parameters)                                                        │
+│    ├── GCA_040194355.1_ASM4019435v1_genomic_aggregated_classification.tsv (sequence classification: tabular format)                                      │
+│    ├── GCA_040194355.1_ASM4019435v1_genomic_aggregated_classification.npz (sequence classification: binary format)                                       │
+│    ├── GCA_040194355.1_ASM4019435v1_genomic_provirus_aggregated_classification.tsv (provirus classification: tabular format)                             │
+│    └── GCA_040194355.1_ASM4019435v1_genomic_provirus_aggregated_classification.npz (provirus classification: binary format)                              │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+[20:44:57] Executing genomad aggregated-classification.                                                                                                     
+[20:44:57] Creating the genomad/GCA_040194355.1_ASM4019435v1_genomic_aggregated_classification directory.                                                   
+[20:44:57] The total marker frequencies of the input sequences were computed.                                                                               
+[20:44:57] Sequences classified.                                                                                                                            
+[20:44:57] Sequence classification in binary format written to GCA_040194355.1_ASM4019435v1_genomic_aggregated_classification.npz.                          
+[20:44:57] Sequence classification in tabular format written to GCA_040194355.1_ASM4019435v1_genomic_aggregated_classification.tsv.                         
+[20:44:57] Proviruses classified.                                                                                                                           
+[20:44:57] Provirus classification in binary format written to GCA_040194355.1_ASM4019435v1_genomic_provirus_aggregated_classification.npz.                 
+[20:44:57] Provirus classification in tabular format written to GCA_040194355.1_ASM4019435v1_genomic_provirus_aggregated_classification.tsv.                
+[20:44:57] geNomad aggregated-classification finished!                                                                                                      

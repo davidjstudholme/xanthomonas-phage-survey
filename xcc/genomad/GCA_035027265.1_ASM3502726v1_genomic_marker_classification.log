@@ -1,0 +1,31 @@
+╭─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│  Executing geNomad marker-classification (v1.11.1). This will classify the input sequences into chromosome, plasmid, or virus based on the presence of geNomad      │
+│  markers and other gene-related features.                                                                                                                           │
+│  ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────  │
+│  Outputs:                                                                                                                                                           │
+│    genomad/GCA_035027265.1_ASM3502726v1_genomic_marker_classification                                                                                               │
+│    ├── GCA_035027265.1_ASM3502726v1_genomic_marker_classification.json (execution parameters)                                                                       │
+│    ├── GCA_035027265.1_ASM3502726v1_genomic_features.tsv (sequence feature data: tabular format)                                                                    │
+│    ├── GCA_035027265.1_ASM3502726v1_genomic_features.npz (sequence feature data: binary format)                                                                     │
+│    ├── GCA_035027265.1_ASM3502726v1_genomic_marker_classification.tsv (sequence classification: tabular format)                                                     │
+│    ├── GCA_035027265.1_ASM3502726v1_genomic_marker_classification.npz (sequence classification: binary format)                                                      │
+│    ├── GCA_035027265.1_ASM3502726v1_genomic_provirus_features.tsv (provirus feature data: tabular format)                                                           │
+│    ├── GCA_035027265.1_ASM3502726v1_genomic_provirus_features.npz (provirus feature data: binary format)                                                            │
+│    ├── GCA_035027265.1_ASM3502726v1_genomic_provirus_marker_classification.tsv (provirus classification: tabular format)                                            │
+│    └── GCA_035027265.1_ASM3502726v1_genomic_provirus_marker_classification.npz (provirus classification: binary format)                                             │
+╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+[17:26:04] Executing genomad marker-classification.                                                                                                                    
+[17:26:04] Creating the genomad/GCA_035027265.1_ASM3502726v1_genomic_marker_classification directory.                                                                  
+[17:26:04] Sequence features computed.                                                                                                                                 
+[17:26:04] Sequence features in binary format written to GCA_035027265.1_ASM3502726v1_genomic_features.npz.                                                            
+[17:26:04] Sequence features in tabular format written to GCA_035027265.1_ASM3502726v1_genomic_features.tsv.                                                           
+[17:26:05] Provirus features computed.                                                                                                                                 
+[17:26:05] Provirus features in binary format written to GCA_035027265.1_ASM3502726v1_genomic_provirus_features.npz.                                                   
+[17:26:05] Provirus features in tabular format written to GCA_035027265.1_ASM3502726v1_genomic_provirus_features.tsv.                                                  
+[17:26:05] Sequences classified.                                                                                                                                       
+[17:26:05] Sequence classification in binary format written to GCA_035027265.1_ASM3502726v1_genomic_marker_classification.npz.                                         
+[17:26:05] Sequence classification in tabular format written to GCA_035027265.1_ASM3502726v1_genomic_marker_classification.tsv.                                        
+[17:26:05] Proviruses classified.                                                                                                                                      
+[17:26:06] Provirus classification in binary format written to GCA_035027265.1_ASM3502726v1_genomic_provirus_marker_classification.npz.                                
+[17:26:06] Provirus classification in tabular format written to GCA_035027265.1_ASM3502726v1_genomic_provirus_marker_classification.tsv.                               
+[17:26:06] geNomad marker-classification finished!                                                                                                                     

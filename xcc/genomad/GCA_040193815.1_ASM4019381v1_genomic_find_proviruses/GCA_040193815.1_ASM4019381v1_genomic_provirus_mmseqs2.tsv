@@ -1,0 +1,7 @@
+JBEFUT010000002.1_329 # 381277 # 382668 # -1 # ID=2_329;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.582	PF00589.RP35	1.985E-15	69
+JBEFUT010000030.1_10 # 11830 # 13155 # -1 # ID=30_10;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.591	PF00589.RP35	9.170E-12	57
+JBEFUT010000030.1_11 # 13641 # 14789 # 1 # ID=30_11;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;genetic_code=11;gc_cont=0.578	PF00589.RP35	6.160E-16	70
+JBEFUT010000003.1_154 # 167401 # 168372 # 1 # ID=3_154;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.703	TIGR02225	2.463E-117	367
+JBEFUT010000001.1_31 # 30847 # 32352 # -1 # ID=1_31;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.613	PF00589.RP35	1.631E-13	63
+JBEFUT010000002.1_311 # 357201 # 358724 # 1 # ID=2_311;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.586	PF00589.RP35	8.206E-14	64
+JBEFUT010000001.1_22 # 22258 # 23658 # 1 # ID=1_22;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.593	PF00589.RP35	3.458E-14	65

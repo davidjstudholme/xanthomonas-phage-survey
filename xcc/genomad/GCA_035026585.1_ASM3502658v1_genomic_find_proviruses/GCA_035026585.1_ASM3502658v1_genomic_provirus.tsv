@@ -1,0 +1,2 @@
+seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
+JAYIQP010000013.1|provirus_24561_60533	JAYIQP010000013.1	24561	60533	35973	48	37.9020	False	JAYIQP010000013.1|provirus_24561_60533_65

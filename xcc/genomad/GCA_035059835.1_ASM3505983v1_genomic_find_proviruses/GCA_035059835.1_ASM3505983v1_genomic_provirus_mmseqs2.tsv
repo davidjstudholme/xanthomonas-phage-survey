@@ -1,0 +1,12 @@
+JAYIUW010000003.1_175 # 216345 # 217739 # -1 # ID=3_175;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.595	PF00589.RP35	1.994E-15	69
+JAYIUW010000016.1_90 # 94416 # 95606 # 1 # ID=16_90;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.589	PRK09692	7.331E-43	153
+JAYIUW010000020.1_80 # 88047 # 89516 # 1 # ID=20_80;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.597	PF00589.RP35	2.655E-12	59
+JAYIUW010000006.1_71 # 74534 # 76051 # -1 # ID=6_71;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.614	PF00589.RP35	4.014E-14	65
+JAYIUW010000002.1_222 # 253432 # 254403 # -1 # ID=2_222;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.709	TIGR02225	2.463E-117	367
+JAYIUW010000027.1_3 # 2100 # 3347 # -1 # ID=27_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.506	PF00589.RP35	1.336E-14	66
+JAYIUW010000027.1_4 # 3917 # 5065 # 1 # ID=27_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;genetic_code=11;gc_cont=0.578	PF00589.RP35	2.608E-15	68
+JAYIUW010000005.1_95 # 122461 # 123690 # -1 # ID=5_95;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.614	PRK09692	3.363E-73	243
+JAYIUW010000006.1_62 # 65926 # 67317 # 1 # ID=6_62;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.584	PF00589.RP35	6.950E-14	64
+JAYIUW010000012.1_82 # 110249 # 111217 # -1 # ID=12_82;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.689	PF00589.RP35	5.456E-13	60
+JAYIUW010000029.1_16 # 23552 # 24631 # -1 # ID=29_16;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.656	PF00589.RP35	3.989E-14	64
+JAYIUW010000020.1_89 # 95895 # 97295 # -1 # ID=20_89;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.617	PF00589.RP35	3.458E-14	65

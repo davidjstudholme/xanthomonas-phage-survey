@@ -1,0 +1,12 @@
+JAYIQB010000020.1_63 # 82121 # 83638 # 1 # ID=20_63;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.615	PF00589.RP35	4.014E-14	65
+JAYIQB010000006.1_45 # 46890 # 48410 # -1 # ID=6_45;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;genetic_code=11;gc_cont=0.571	PF00589.RP35	1.386E-12	60
+JAYIQB010000001.1_222 # 253419 # 254390 # -1 # ID=1_222;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.709	TIGR02225	2.463E-117	367
+JAYIQB010000006.1_15 # 13260 # 14729 # -1 # ID=6_15;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.597	PF00589.RP35	2.655E-12	59
+JAYIQB010000006.1_6 # 5481 # 6881 # 1 # ID=6_6;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.617	PF00589.RP35	3.458E-14	65
+JAYIQB010000032.1_3 # 3189 # 4436 # -1 # ID=32_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.506	PF00589.RP35	1.336E-14	66
+JAYIQB010000020.1_72 # 90855 # 92246 # -1 # ID=20_72;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.583	PF00589.RP35	6.950E-14	64
+JAYIQB010000006.1_28 # 30039 # 31430 # 1 # ID=6_28;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.572	PF00589.RP35	4.044E-15	68
+JAYIQB010000004.1_95 # 122461 # 123690 # -1 # ID=4_95;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.613	PRK09692	3.363E-73	243
+JAYIQB010000037.1_35 # 29349 # 30317 # 1 # ID=37_35;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.689	PF00589.RP35	5.456E-13	60
+JAYIQB010000007.1_91 # 107397 # 108791 # -1 # ID=7_91;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.595	PF00589.RP35	1.994E-15	69
+JAYIQB010000017.1_11 # 12785 # 13975 # -1 # ID=17_11;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.589	PRK09692	7.331E-43	153

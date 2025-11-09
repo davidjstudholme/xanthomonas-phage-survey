@@ -1,0 +1,2 @@
+seq_name	length	topology	n_genes	genetic_code	plasmid_score	fdr	n_hallmarks	marker_enrichment	conjugation_genes	amr_genes
+JAYIWN010000026.1	20611	No terminal repeats	17	11	0.9977	NA	0	1.8637	NA	NF033156

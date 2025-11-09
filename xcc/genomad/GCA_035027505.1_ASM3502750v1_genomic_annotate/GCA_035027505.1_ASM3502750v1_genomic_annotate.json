@@ -1,0 +1,11 @@
+{
+    "module": "annotate",
+    "input": "GCA_035027505.1_ASM3502750v1_genomic.fna",
+    "input_md5": "c62cb9d9b3c77fa2e412d029b0d41214",
+    "start_time": "2025-11-08T17:40:59.083895+00:00",
+    "parameters": {
+        "use_minimal_db": false,
+        "sensitivity": 4.2,
+        "evalue": 0.001
+    }
+}

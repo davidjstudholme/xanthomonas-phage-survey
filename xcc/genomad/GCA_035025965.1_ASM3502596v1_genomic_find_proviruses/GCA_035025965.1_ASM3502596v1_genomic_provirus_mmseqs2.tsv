@@ -1,0 +1,12 @@
+JAYINI010000008.1_62 # 66090 # 67481 # 1 # ID=8_62;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.584	PF00589.RP35	6.950E-14	64
+JAYINI010000051.1_18 # 12667 # 13857 # -1 # ID=51_18;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.589	PRK09692	7.331E-43	153
+JAYINI010000006.1_32 # 29342 # 30310 # 1 # ID=6_32;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.689	PF00589.RP35	5.456E-13	60
+JAYINI010000003.1_242 # 271625 # 273556 # 1 # ID=3_242;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.610	COG0582	1.115E-53	192
+JAYINI010000023.1_3 # 3186 # 4433 # -1 # ID=23_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.506	PF00589.RP35	1.336E-14	66
+JAYINI010000019.1_80 # 88061 # 89530 # 1 # ID=19_80;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.597	PF00589.RP35	2.655E-12	59
+JAYINI010000003.1_49 # 51588 # 52817 # -1 # ID=3_49;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.614	PRK09692	3.363E-73	243
+JAYINI010000023.1_4 # 5003 # 6151 # 1 # ID=23_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;genetic_code=11;gc_cont=0.578	PF00589.RP35	2.608E-15	68
+JAYINI010000019.1_89 # 95909 # 97309 # -1 # ID=19_89;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.617	PF00589.RP35	3.458E-14	65
+JAYINI010000001.1_222 # 253204 # 254175 # -1 # ID=1_222;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.709	TIGR02225	2.463E-117	367
+JAYINI010000008.1_71 # 74698 # 76215 # -1 # ID=8_71;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.614	PF00589.RP35	4.014E-14	65
+JAYINI010000012.1_3 # 2398 # 3792 # 1 # ID=12_3;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.596	PF00589.RP35	1.994E-15	69

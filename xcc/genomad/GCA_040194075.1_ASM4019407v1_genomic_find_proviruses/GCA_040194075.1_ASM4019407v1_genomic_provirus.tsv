@@ -1,0 +1,2 @@
+seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
+JBEFUE010000032.1|provirus_34775_53550	JBEFUE010000032.1	34775	53550	18776	22	18.7842	True	JBEFUE010000032.1|provirus_34775_53550_39

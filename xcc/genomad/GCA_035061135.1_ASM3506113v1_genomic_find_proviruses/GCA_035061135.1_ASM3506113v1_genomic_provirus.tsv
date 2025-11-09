@@ -1,0 +1,2 @@
+seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
+JAYIWN010000005.1|provirus_117456_151847	JAYIWN010000005.1	117456	151847	34392	45	58.0671	False	JAYIWN010000005.1|provirus_117456_151847_107

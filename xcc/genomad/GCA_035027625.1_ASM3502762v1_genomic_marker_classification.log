@@ -1,0 +1,21 @@
+╭─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│  Executing geNomad marker-classification (v1.11.1). This will classify the input sequences into chromosome, plasmid, or virus based on the presence of geNomad      │
+│  markers and other gene-related features.                                                                                                                           │
+│  ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────  │
+│  Outputs:                                                                                                                                                           │
+│    genomad/GCA_035027625.1_ASM3502762v1_genomic_marker_classification                                                                                               │
+│    ├── GCA_035027625.1_ASM3502762v1_genomic_marker_classification.json (execution parameters)                                                                       │
+│    ├── GCA_035027625.1_ASM3502762v1_genomic_features.tsv (sequence feature data: tabular format)                                                                    │
+│    ├── GCA_035027625.1_ASM3502762v1_genomic_features.npz (sequence feature data: binary format)                                                                     │
+│    ├── GCA_035027625.1_ASM3502762v1_genomic_marker_classification.tsv (sequence classification: tabular format)                                                     │
+│    └── GCA_035027625.1_ASM3502762v1_genomic_marker_classification.npz (sequence classification: binary format)                                                      │
+╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+[17:47:12] Executing genomad marker-classification.                                                                                                                    
+[17:47:12] Creating the genomad/GCA_035027625.1_ASM3502762v1_genomic_marker_classification directory.                                                                  
+[17:47:13] Sequence features computed.                                                                                                                                 
+[17:47:13] Sequence features in binary format written to GCA_035027625.1_ASM3502762v1_genomic_features.npz.                                                            
+[17:47:13] Sequence features in tabular format written to GCA_035027625.1_ASM3502762v1_genomic_features.tsv.                                                           
+[17:47:13] Sequences classified.                                                                                                                                       
+[17:47:13] Sequence classification in binary format written to GCA_035027625.1_ASM3502762v1_genomic_marker_classification.npz.                                         
+[17:47:13] Sequence classification in tabular format written to GCA_035027625.1_ASM3502762v1_genomic_marker_classification.tsv.                                        
+[17:47:13] geNomad marker-classification finished!                                                                                                                     

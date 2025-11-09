@@ -1,0 +1,12 @@
+JAYINZ010000003.1_101 # 104112 # 106178 # 1 # ID=3_101;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.549	PF00589.RP35	1.120E-05	38
+JAYINZ010000007.1_9 # 11308 # 12498 # -1 # ID=7_9;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.589	PRK09692	7.331E-43	153
+JAYINZ010000002.1_305 # 380778 # 382178 # -1 # ID=2_305;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.605	PF00589.RP35	3.458E-14	65
+JAYINZ010000002.1_294 # 369169 # 370542 # 1 # ID=2_294;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.626	PF00589.RP35	3.329E-14	65
+JAYINZ010000009.1_1 # 1 # 1380 # 1 # ID=9_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.607	PF00589.RP35	6.836E-14	64
+JAYINZ010000003.1_99 # 101292 # 102578 # 1 # ID=3_99;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.576	PF00589.RP35	1.029E-12	60
+JAYINZ010000009.1_12 # 11681 # 13153 # -1 # ID=9_12;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.614	PF00589.RP35	3.761E-10	52
+JAYINZ010000003.1_100 # 102575 # 104119 # 1 # ID=3_100;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.544	PF00589.RP35	9.432E-07	41
+JAYINZ010000003.1_136 # 166078 # 167358 # 1 # ID=3_136;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.532	PF00589.RP35	2.078E-12	59
+JAYINZ010000009.1_11 # 10823 # 11602 # -1 # ID=9_11;partial=00;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.604	PF00589.RP35	1.416E-14	64
+JAYINZ010000009.1_146 # 167542 # 168789 # 1 # ID=9_146;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.504	PF00589.RP35	1.336E-14	66
+JAYINZ010000001.1_210 # 229689 # 230660 # 1 # ID=1_210;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.704	TIGR02225	2.463E-117	367

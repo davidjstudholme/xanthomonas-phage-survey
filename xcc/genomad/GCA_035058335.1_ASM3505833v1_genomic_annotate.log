@@ -1,0 +1,19 @@
+╭─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│  Executing geNomad annotate (v1.11.1). This will perform gene calling in the input sequences and annotate the predicted proteins with geNomad's markers.            │
+│  ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────  │
+│  Outputs:                                                                                                                                                           │
+│    genomad/GCA_035058335.1_ASM3505833v1_genomic_annotate                                                                                                            │
+│    ├── GCA_035058335.1_ASM3505833v1_genomic_annotate.json (execution parameters)                                                                                    │
+│    ├── GCA_035058335.1_ASM3505833v1_genomic_genes.tsv (gene annotation data)                                                                                        │
+│    ├── GCA_035058335.1_ASM3505833v1_genomic_taxonomy.tsv (taxonomic assignment)                                                                                     │
+│    ├── GCA_035058335.1_ASM3505833v1_genomic_mmseqs2.tsv (MMseqs2 output file)                                                                                       │
+│    └── GCA_035058335.1_ASM3505833v1_genomic_proteins.faa (protein FASTA file)                                                                                       │
+╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+[17:50:19] Executing genomad annotate.                                                                                                                                 
+[17:50:19] Creating the genomad/GCA_035058335.1_ASM3505833v1_genomic_annotate directory.                                                                               
+[17:50:23] Proteins predicted with pyrodigal-gv were written to GCA_035058335.1_ASM3505833v1_genomic_proteins.faa.                                                     
+[17:51:30] Proteins annotated with MMseqs2 and geNomad database (v1.9) were written to GCA_035058335.1_ASM3505833v1_genomic_mmseqs2.tsv.                               
+[17:51:30] Deleting GCA_035058335.1_ASM3505833v1_genomic_mmseqs2.                                                                                                      
+[17:51:31] Gene data was written to GCA_035058335.1_ASM3505833v1_genomic_genes.tsv.                                                                                    
+[17:51:31] Taxonomic assignment data was written to GCA_035058335.1_ASM3505833v1_genomic_taxonomy.tsv.                                                                 
+[17:51:31] geNomad annotate finished!                                                                                                                                  

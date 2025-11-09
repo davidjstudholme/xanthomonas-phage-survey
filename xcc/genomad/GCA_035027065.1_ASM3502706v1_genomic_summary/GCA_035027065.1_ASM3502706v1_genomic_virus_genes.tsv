@@ -1,0 +1,8 @@
+gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
+JAYIRO010000044.1|provirus_1_4882_1	1	780	780	1	0.609	11	None	GENOMAD.097192.VV	7.045e-40	151	0	0	0	2773	Inoviridae	NA	NA	NA	NA
+JAYIRO010000044.1|provirus_1_4882_2	791	1111	321	1	0.548	11	GGAG/GAGG	GENOMAD.214060.VP	2.027e-46	162	0	0	0	2773	Inoviridae	NA	NA	NA	NA
+JAYIRO010000044.1|provirus_1_4882_3	1113	2435	1323	1	0.610	11	GGA/GAG/AGG	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
+JAYIRO010000044.1|provirus_1_4882_4	2524	2799	276	1	0.616	11	AGGAG	GENOMAD.227142.VP	2.064e-31	118	0	0	0	1	NA	NA	NA	NA	NA
+JAYIRO010000044.1|provirus_1_4882_5	2912	3220	309	-1	0.583	11	AGxAGG/AGGxGG	GENOMAD.160041.VV	1.362e-56	191	0	0	0	1	NA	NA	NA	NA	NA
+JAYIRO010000044.1|provirus_1_4882_6	3287	3613	327	-1	0.621	11	GGAG/GAGG	GENOMAD.212325.VP	1.007e-38	140	0	0	1	2773	Inoviridae	NA	NA	PF12375;PF12472	Phage protein; Phage related protein
+JAYIRO010000044.1|provirus_1_4882_7	4256	4882	627	1	0.611	11	AGGAG	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA

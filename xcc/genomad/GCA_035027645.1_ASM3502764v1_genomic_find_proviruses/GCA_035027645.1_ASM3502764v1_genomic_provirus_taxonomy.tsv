@@ -1,0 +1,4 @@
+seq_name	n_genes_with_taxonomy	agreement	taxid	lineage
+JAYISQ010000023.1|provirus_61_14939	6	1.0000	2773	Viruses;Monodnaviria;Loebvirae;Hofneiviricota;Faserviricetes;Tubulavirales;Inoviridae
+JAYISQ010000034.1|provirus_42_17806	15	1.0000	1246	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JAYISQ010000052.1|provirus_10424_21430	7	1.0000	1246	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;

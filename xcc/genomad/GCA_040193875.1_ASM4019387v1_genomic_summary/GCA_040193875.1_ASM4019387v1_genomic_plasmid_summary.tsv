@@ -1,0 +1,11 @@
+seq_name	length	topology	n_genes	genetic_code	plasmid_score	fdr	n_hallmarks	marker_enrichment	conjugation_genes	amr_genes
+JBEFUR010000043.1	6687	No terminal repeats	6	11	0.9995	NA	0	1.1355	NA	NA
+JBEFUR010000033.1	34125	No terminal repeats	31	11	0.9993	NA	0	1.4727	NA	NA
+JBEFUR010000030.1	35646	No terminal repeats	25	11	0.9979	NA	0	1.5168	NA	NF033135
+JBEFUR010000034.1	31920	No terminal repeats	29	11	0.9975	NA	0	2.0578	NA	NA
+JBEFUR010000041.1	12204	No terminal repeats	10	11	0.9962	NA	0	1.5622	NA	NA
+JBEFUR010000038.1	20305	No terminal repeats	21	11	0.9935	NA	0	0.3959	NA	NA
+JBEFUR010000037.1	22566	No terminal repeats	21	11	0.9932	NA	0	1.3735	NA	NA
+JBEFUR010000047.1	5222	No terminal repeats	5	11	0.9742	NA	0	0.2071	NA	NA
+JBEFUR010000051.1	2319	No terminal repeats	3	11	0.9498	NA	1	0.8364	NA	NA
+JBEFUR010000044.1	5951	No terminal repeats	4	11	0.8177	NA	0	1.1813	NA	NF012174

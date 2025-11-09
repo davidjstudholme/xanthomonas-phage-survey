@@ -1,0 +1,28 @@
+╭─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│  Executing geNomad nn-classification (v1.11.1). This will classify the input sequences into chromosome, plasmid, or virus based on the nucleotide sequence.         │
+│  ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────  │
+│  Outputs:                                                                                                                                                           │
+│    genomad/GCA_040193695.1_ASM4019369v1_genomic_nn_classification                                                                                                   │
+│    ├── GCA_040193695.1_ASM4019369v1_genomic_nn_classification.json (execution parameters)                                                                           │
+│    ├── GCA_040193695.1_ASM4019369v1_genomic_encoded_sequences (directory containing encoded sequence data)                                                          │
+│    ├── GCA_040193695.1_ASM4019369v1_genomic_nn_classification.tsv (contig classification: tabular format)                                                           │
+│    ├── GCA_040193695.1_ASM4019369v1_genomic_nn_classification.npz (contig classification: binary format)                                                            │
+│    ├── GCA_040193695.1_ASM4019369v1_genomic_encoded_proviruses (directory containing encoded sequence data)                                                         │
+│    ├── GCA_040193695.1_ASM4019369v1_genomic_provirus_nn_classification.tsv (provirus classification: tabular format)                                                │
+│    └── GCA_040193695.1_ASM4019369v1_genomic_provirus_nn_classification.npz (provirus classification: binary format)                                                 │
+╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+[20:12:51] Executing genomad nn-classification.                                                                                                                        
+[20:12:51] Creating the genomad/GCA_040193695.1_ASM4019369v1_genomic_nn_classification directory.                                                                      
+[20:12:51] Creating the genomad/GCA_040193695.1_ASM4019369v1_genomic_nn_classification/GCA_040193695.1_ASM4019369v1_genomic_encoded_sequences directory.               
+[20:12:52] Encoded sequence data written to GCA_040193695.1_ASM4019369v1_genomic_encoded_sequences.                                                                    
+[20:12:52] Creating the genomad/GCA_040193695.1_ASM4019369v1_genomic_nn_classification/GCA_040193695.1_ASM4019369v1_genomic_encoded_proviruses directory.              
+[20:12:52] Encoded provirus data written to GCA_040193695.1_ASM4019369v1_genomic_encoded_proviruses.                                                                   
+[20:13:00] Sequences classified.                                                                                                                                       
+[20:13:00] Sequence classification in binary format written to GCA_040193695.1_ASM4019369v1_genomic_nn_classification.npz.                                             
+[20:13:00] Deleting encoded sequence data.                                                                                                                             
+[20:13:00] Sequence classification in tabular format written to GCA_040193695.1_ASM4019369v1_genomic_nn_classification.tsv.                                            
+[20:13:03] Proviruses classified.                                                                                                                                      
+[20:13:03] Provirus classification in binary format written to GCA_040193695.1_ASM4019369v1_genomic_provirus_nn_classification.npz.                                    
+[20:13:03] Deleting encoded provirus data.                                                                                                                             
+[20:13:03] Provirus classification in tabular format written to GCA_040193695.1_ASM4019369v1_genomic_provirus_nn_classification.tsv.                                   
+[20:13:03] geNomad nn-classification finished!                                                                                                                         

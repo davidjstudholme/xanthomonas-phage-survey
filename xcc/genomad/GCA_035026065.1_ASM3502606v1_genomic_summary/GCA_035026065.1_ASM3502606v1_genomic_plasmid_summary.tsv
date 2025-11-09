@@ -1,0 +1,15 @@
+seq_name	length	topology	n_genes	genetic_code	plasmid_score	fdr	n_hallmarks	marker_enrichment	conjugation_genes	amr_genes
+JAYIPS010000101.1	856	No terminal repeats	2	11	1.0000	NA	1	3.4366	T_virB6	NA
+JAYIPS010000072.1	11547	No terminal repeats	10	11	1.0000	NA	2	5.1548	T_virB6;B_traI	NA
+JAYIPS010000074.1	9070	No terminal repeats	12	11	1.0000	NA	1	7.8663	MOBH;G_tfc19;G_tfc18;G_tfc22	NA
+JAYIPS010000082.1	3397	No terminal repeats	6	11	1.0000	NA	1	1.0908	T_virB6	NA
+JAYIPS010000043.1	44830	No terminal repeats	47	11	0.9999	NA	1	2.0518	MOBQ	NA
+JAYIPS010000087.1	1926	No terminal repeats	3	11	0.9993	NA	1	2.2747	G_tfc23;G_tfc22	NA
+JAYIPS010000053.1	32228	No terminal repeats	29	11	0.9986	NA	0	2.0578	NA	NA
+JAYIPS010000069.1	15288	No terminal repeats	8	11	0.9982	NA	0	1.9003	NA	NA
+JAYIPS010000061.1	24624	No terminal repeats	23	11	0.9963	NA	0	1.6620	NA	NF033105
+JAYIPS010000063.1	23075	No terminal repeats	22	11	0.9832	NA	0	2.1522	NA	NA
+JAYIPS010000050.1	36151	No terminal repeats	28	11	0.9695	NA	1	1.6166	NA	NF012174
+JAYIPS010000054.1	31319	No terminal repeats	26	11	0.9340	NA	0	0.8914	NA	NA
+JAYIPS010000080.1	4881	No terminal repeats	6	11	0.9169	NA	0	0.2071	NA	NA
+JAYIPS010000075.1	8600	No terminal repeats	7	11	0.8148	NA	0	0.3254	NA	NA

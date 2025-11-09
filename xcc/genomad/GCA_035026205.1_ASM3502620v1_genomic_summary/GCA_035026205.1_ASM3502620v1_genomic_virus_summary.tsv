@@ -1,0 +1,2 @@
+seq_name	length	topology	coordinates	n_genes	genetic_code	virus_score	fdr	n_hallmarks	marker_enrichment	taxonomy
+JAYIQK010000084.1	4865	No terminal repeats	NA	6	11	0.9997	NA	4	7.6166	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;

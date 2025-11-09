@@ -1,0 +1,4 @@
+seq_name	chromosome_score	plasmid_score	virus_score
+JBEFVN010000019.1|provirus_56923_65859	0.0001	0.0011	0.9988
+JBEFVN010000034.1|provirus_42_17806	0.0002	0.0006	0.9991
+JBEFVN010000059.1|provirus_1_11007	0.0002	0.0006	0.9992

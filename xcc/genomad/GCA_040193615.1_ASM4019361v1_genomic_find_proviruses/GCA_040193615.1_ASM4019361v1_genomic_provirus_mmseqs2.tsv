@@ -1,0 +1,8 @@
+JBEFVM010000001.1_119 # 145239 # 146783 # -1 # ID=1_119;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.545	PF00589.RP35	1.907E-06	40
+JBEFVM010000013.1_107 # 116171 # 117385 # 1 # ID=13_107;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.617	PRK09692	2.449E-61	208
+JBEFVM010000001.1_120 # 146780 # 148066 # -1 # ID=1_120;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.566	PF00589.RP35	1.029E-12	60
+JBEFVM010000016.1_41 # 44015 # 45244 # -1 # ID=16_41;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.614	PRK09692	3.363E-73	243
+JBEFVM010000035.1_3 # 2036 # 3487 # -1 # ID=35_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.590	PF00589.RP35	3.064E-09	49
+JBEFVM010000018.1_78 # 87300 # 88271 # 1 # ID=18_78;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.699	TIGR02225	2.463E-117	367
+JBEFVM010000001.1_118 # 143180 # 145246 # -1 # ID=1_118;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.549	PF00589.RP35	1.120E-05	38
+JBEFVM010000008.1_134 # 154900 # 156396 # 1 # ID=8_134;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.605	PF00589.RP35	2.284E-11	56

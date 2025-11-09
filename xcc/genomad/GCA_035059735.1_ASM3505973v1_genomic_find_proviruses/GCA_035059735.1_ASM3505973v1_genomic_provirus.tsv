@@ -1,0 +1,2 @@
+seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
+JAYIUS010000029.1|provirus_26_8033	JAYIUS010000029.1	26	8033	8008	14	16.2793	True	NA

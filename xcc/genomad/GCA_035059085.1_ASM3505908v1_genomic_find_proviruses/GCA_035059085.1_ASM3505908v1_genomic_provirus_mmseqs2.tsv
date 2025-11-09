@@ -1,0 +1,7 @@
+JAYITV010000018.1_15 # 13291 # 14760 # -1 # ID=10_15;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.597	PF00589.RP35	2.655E-12	59
+JAYITV010000018.1_6 # 5512 # 6912 # 1 # ID=10_6;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.617	PF00589.RP35	3.458E-14	65
+JAYITV010000033.1_35 # 29342 # 30310 # 1 # ID=27_35;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.689	PF00589.RP35	5.456E-13	60
+JAYITV010000017.1_8 # 11593 # 12993 # 1 # ID=9_8;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.609	PF00589.RP35	3.458E-14	65
+JAYITV010000017.1_18 # 20381 # 21889 # -1 # ID=9_18;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.619	PF00589.RP35	8.064E-14	64
+JAYITV010000001.1_184 # 202073 # 203044 # 1 # ID=1_184;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.709	TIGR02225	2.463E-117	367
+JAYITV010000006.1_2 # 3200 # 4390 # -1 # ID=56_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.589	PRK09692	7.331E-43	153
