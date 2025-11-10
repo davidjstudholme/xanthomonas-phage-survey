@@ -1,0 +1,54 @@
+##gff-version 3.2.1
+##sequence-region RRXF01000001.1 1 440642
+##sequence-region RRXF01000004.1 1 106211
+##sequence-region RRXF01000008.1 1 20637
+##sequence-region RRXF01000009.1 1 153504
+##sequence-region RRXF01000010.1 1 21050
+##sequence-region RRXF01000012.1 1 51465
+##sequence-region RRXF01000013.1 1 50400
+##sequence-region RRXF01000015.1 1 162363
+##sequence-region RRXF01000017.1 1 65158
+##sequence-region RRXF01000019.1 1 67034
+##sequence-region RRXF01000020.1 1 66771
+##sequence-region RRXF01000021.1 1 80893
+##sequence-region RRXF01000022.1 1 63419
+##sequence-region RRXF01000023.1 1 104819
+##sequence-region RRXF01000024.1 1 89345
+##sequence-region RRXF01000027.1 1 102680
+##sequence-region RRXF01000028.1 1 371119
+##sequence-region RRXF01000029.1 1 81699
+##sequence-region RRXF01000030.1 1 151010
+##sequence-region RRXF01000032.1 1 59457
+##sequence-region RRXF01000037.1 1 152613
+##sequence-region RRXF01000039.1 1 20121
+##sequence-region RRXF01000040.1 1 234384
+##sequence-region RRXF01000041.1 1 60274
+##sequence-region RRXF01000042.1 1 225537
+##sequence-region RRXF01000043.1 1 222040
+##sequence-region RRXF01000045.1 1 46941
+##sequence-region RRXF01000046.1 1 167898
+##sequence-region RRXF01000047.1 1 110115
+##sequence-region RRXF01000048.1 1 112952
+##sequence-region RRXF01000050.1 1 98077
+##sequence-region RRXF01000051.1 1 219760
+##sequence-region RRXF01000053.1 1 32311
+##sequence-region RRXF01000054.1 1 40098
+##sequence-region RRXF01000057.1 1 155843
+##sequence-region RRXF01000058.1 1 109238
+##sequence-region RRXF01000061.1 1 50848
+##sequence-region RRXF01000068.1 1 93022
+##sequence-region RRXF01000074.1 1 116018
+##sequence-region RRXF01000075.1 1 200303
+##sequence-region RRXF01000077.1 1 24340
+RRXF01000050.1	.	prophage	36936	50813	.	.	.	ID=RRXF01000050.1_prophage1;taxonomy=Myoviridae / Podoviridae;transposable=False
+RRXF01000050.1	.	gene	36936	37340	.	-	.	ID=RRXF01000050.1_44;Parent=RRXF01000050.1_prophage1;pvog=.
+RRXF01000050.1	.	gene	37937	38641	0.0037	+	.	ID=RRXF01000050.1_45;Parent=RRXF01000050.1_prophage1;pvog=VOG10953
+RRXF01000050.1	.	gene	38673	39410	1.2e-14	-	.	ID=RRXF01000050.1_46;Parent=RRXF01000050.1_prophage1;pvog=VOG0982
+RRXF01000050.1	.	gene	39419	39871	3e-50	-	.	ID=RRXF01000050.1_47;Parent=RRXF01000050.1_prophage1;pvog=VOG4714
+RRXF01000050.1	.	gene	39896	40462	0.0032	-	.	ID=RRXF01000050.1_48;Parent=RRXF01000050.1_prophage1;pvog=VOG4571
+RRXF01000050.1	.	gene	40565	41332	5.9e-06	+	.	ID=RRXF01000050.1_49;Parent=RRXF01000050.1_prophage1;pvog=VOG5148
+RRXF01000050.1	.	gene	41329	42489	5e-08	+	.	ID=RRXF01000050.1_50;Parent=RRXF01000050.1_prophage1;pvog=VOG0038
+RRXF01000050.1	.	gene	43949	45919	.	-	.	ID=RRXF01000050.1_51;Parent=RRXF01000050.1_prophage1;pvog=.
+RRXF01000050.1	.	gene	46451	46723	4e-23	-	.	ID=RRXF01000050.1_52;Parent=RRXF01000050.1_prophage1;pvog=VOG0094
+RRXF01000050.1	.	gene	46938	49409	8.9e-09	-	.	ID=RRXF01000050.1_53;Parent=RRXF01000050.1_prophage1;pvog=VOG0996
+RRXF01000050.1	.	gene	49527	50813	1.8e-77	-	.	ID=RRXF01000050.1_54;Parent=RRXF01000050.1_prophage1;pvog=VOG2406

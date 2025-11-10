@@ -1,0 +1,62 @@
+##gff-version 3.2.1
+##sequence-region RRXO01000004.1 1 352104
+##sequence-region RRXO01000005.1 1 21071
+##sequence-region RRXO01000006.1 1 23141
+##sequence-region RRXO01000007.1 1 30817
+##sequence-region RRXO01000008.1 1 101267
+##sequence-region RRXO01000009.1 1 23155
+##sequence-region RRXO01000010.1 1 181966
+##sequence-region RRXO01000011.1 1 43873
+##sequence-region RRXO01000012.1 1 334242
+##sequence-region RRXO01000013.1 1 45404
+##sequence-region RRXO01000014.1 1 49836
+##sequence-region RRXO01000015.1 1 52041
+##sequence-region RRXO01000016.1 1 56487
+##sequence-region RRXO01000018.1 1 32045
+##sequence-region RRXO01000020.1 1 59193
+##sequence-region RRXO01000022.1 1 62835
+##sequence-region RRXO01000023.1 1 43324
+##sequence-region RRXO01000024.1 1 35656
+##sequence-region RRXO01000025.1 1 63068
+##sequence-region RRXO01000027.1 1 116486
+##sequence-region RRXO01000028.1 1 27432
+##sequence-region RRXO01000029.1 1 57904
+##sequence-region RRXO01000030.1 1 26582
+##sequence-region RRXO01000031.1 1 200976
+##sequence-region RRXO01000032.1 1 200230
+##sequence-region RRXO01000034.1 1 27418
+##sequence-region RRXO01000036.1 1 36049
+##sequence-region RRXO01000038.1 1 160013
+##sequence-region RRXO01000039.1 1 25207
+##sequence-region RRXO01000040.1 1 134252
+##sequence-region RRXO01000041.1 1 90901
+##sequence-region RRXO01000042.1 1 196326
+##sequence-region RRXO01000043.1 1 74660
+##sequence-region RRXO01000044.1 1 40373
+##sequence-region RRXO01000047.1 1 61206
+##sequence-region RRXO01000048.1 1 72490
+##sequence-region RRXO01000049.1 1 46359
+##sequence-region RRXO01000051.1 1 116070
+##sequence-region RRXO01000052.1 1 132901
+##sequence-region RRXO01000053.1 1 116769
+##sequence-region RRXO01000054.1 1 114512
+##sequence-region RRXO01000055.1 1 86430
+##sequence-region RRXO01000056.1 1 84229
+##sequence-region RRXO01000057.1 1 84685
+##sequence-region RRXO01000059.1 1 90211
+##sequence-region RRXO01000072.1 1 324743
+##sequence-region RRXO01000076.1 1 219879
+##sequence-region RRXO01000097.1 1 136957
+##sequence-region RRXO01000100.1 1 23637
+RRXO01000012.1	.	prophage	145453	159375	.	.	.	ID=RRXO01000012.1_prophage1;taxonomy=Myoviridae / Podoviridae;transposable=False
+RRXO01000012.1	.	gene	145453	146739	1.8e-77	+	.	ID=RRXO01000012.1_141;Parent=RRXO01000012.1_prophage1;pvog=VOG2406
+RRXO01000012.1	.	gene	146884	149355	6.4e-09	+	.	ID=RRXO01000012.1_142;Parent=RRXO01000012.1_prophage1;pvog=VOG0996
+RRXO01000012.1	.	gene	149570	149842	3.9e-23	+	.	ID=RRXO01000012.1_143;Parent=RRXO01000012.1_prophage1;pvog=VOG0094
+RRXO01000012.1	.	gene	150373	152343	.	+	.	ID=RRXO01000012.1_144;Parent=RRXO01000012.1_prophage1;pvog=.
+RRXO01000012.1	.	gene	153816	154982	2.1e-08	-	.	ID=RRXO01000012.1_145;Parent=RRXO01000012.1_prophage1;pvog=VOG0038
+RRXO01000012.1	.	gene	154979	155746	7.1e-06	-	.	ID=RRXO01000012.1_146;Parent=RRXO01000012.1_prophage1;pvog=VOG5148
+RRXO01000012.1	.	gene	155864	156415	0.0029	+	.	ID=RRXO01000012.1_147;Parent=RRXO01000012.1_prophage1;pvog=VOG4571
+RRXO01000012.1	.	gene	156440	156892	3.7e-50	+	.	ID=RRXO01000012.1_148;Parent=RRXO01000012.1_prophage1;pvog=VOG4714
+RRXO01000012.1	.	gene	156901	157638	1.2e-14	+	.	ID=RRXO01000012.1_149;Parent=RRXO01000012.1_prophage1;pvog=VOG0982
+RRXO01000012.1	.	gene	157670	158374	0.0036	-	.	ID=RRXO01000012.1_150;Parent=RRXO01000012.1_prophage1;pvog=VOG10953
+RRXO01000012.1	.	gene	158971	159375	.	+	.	ID=RRXO01000012.1_151;Parent=RRXO01000012.1_prophage1;pvog=.
