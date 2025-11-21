@@ -20,7 +20,6 @@ DeepVirFinder
 *.zip
 datasets
 */ncbi_dataset
-*workdir/files
 
 *.pileup
 *.mpileup
@@ -50,14 +49,16 @@ md5sum.txt
 
 *quast_results/latest
 
-### Large files in the PhaME results
-*workdir/results/gaps
-*workdir/results/miscs
-*workdir/results/snps
-*workdir/results/stats
-*workdir/results/tables
-*workdir/results/alignments
-*workdir/results/temp
+# Ignore all PhaME output directories
+**/workdir/results/gaps/**
+**/workdir/results/miscs/**
+**/workdir/results/snps/**
+**/workdir/results/stats/**
+**/workdir/results/tables/**
+**/workdir/results/alignments/**
+**/workdir/results/temp/**
+**/workdir/files/**
+
 
 # SNP calling indexes
 *.bwt
