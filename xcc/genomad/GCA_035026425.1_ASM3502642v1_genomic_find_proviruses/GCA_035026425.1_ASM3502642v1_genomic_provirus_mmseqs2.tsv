@@ -1,8 +1,0 @@
-JAYIQI010000006.1_71 # 74540 # 76057 # -1 # ID=6_71;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.614	PF00589.RP35	4.014E-14	65
-JAYIQI010000018.1_3 # 6412 # 7602 # -1 # ID=18_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.589	PRK09692	7.331E-43	153
-JAYIQI010000006.1_62 # 65932 # 67323 # 1 # ID=6_62;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.584	PF00589.RP35	6.950E-14	64
-JAYIQI010000012.1_3 # 2398 # 3792 # 1 # ID=12_3;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.596	PF00589.RP35	1.994E-15	69
-JAYIQI010000005.1_57 # 63441 # 64670 # 1 # ID=5_57;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.615	PRK09692	3.363E-73	243
-JAYIQI010000002.1_138 # 150046 # 151017 # 1 # ID=2_138;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.709	TIGR02225	2.463E-117	367
-JAYIQI010000016.1_89 # 95909 # 97309 # -1 # ID=16_89;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.617	PF00589.RP35	3.458E-14	65
-JAYIQI010000016.1_80 # 88061 # 89530 # 1 # ID=16_80;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.597	PF00589.RP35	2.655E-12	59

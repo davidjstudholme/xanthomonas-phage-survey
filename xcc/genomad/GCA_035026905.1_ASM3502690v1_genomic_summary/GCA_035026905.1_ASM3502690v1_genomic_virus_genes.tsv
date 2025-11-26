@@ -1,6 +1,0 @@
-gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
-JAYIRH010000077.1_1	15	323	309	-1	0.579	11	AGGAGG	GENOMAD.160041.VV	1.232e-57	194	0	0	0	1	NA	NA	NA	NA	NA
-JAYIRH010000077.1_2	390	773	384	-1	0.620	11	GGA/GAG/AGG	GENOMAD.212325.VP	3.616e-42	151	0	0	1	2773	Inoviridae	NA	NA	PF12375;PF12472	Phage protein; Phage related protein
-JAYIRH010000077.1_3	945	1271	327	1	0.606	11	GGAG/GAGG	GENOMAD.212325.VP	2.243e-38	139	0	0	1	2773	Inoviridae	NA	NA	PF12375;PF12472	Phage protein; Phage related protein
-JAYIRH010000078.1_1	1	531	531	1	0.482	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
-JAYIRH010000078.1_2	696	1121	426	-1	0.655	11	None	GENOMAD.119442.VP	6.279e-26	105	0	0	1	1246	Caudoviricetes	NA	NA	PF04717;COG4540;TIGR01644	Phage P2 baseplate assembly protein gpV

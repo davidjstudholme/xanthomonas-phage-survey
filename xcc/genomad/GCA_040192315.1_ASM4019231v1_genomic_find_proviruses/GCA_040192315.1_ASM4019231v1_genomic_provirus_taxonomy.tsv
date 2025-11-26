@@ -1,4 +1,0 @@
-seq_name	n_genes_with_taxonomy	agreement	taxid	lineage
-JBEFVO010000022.1|provirus_58143_67374	6	1.0000	2773	Viruses;Monodnaviria;Loebvirae;Hofneiviricota;Faserviricetes;Tubulavirales;Inoviridae
-JBEFVO010000034.1|provirus_35778_53542	15	1.0000	1246	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
-JBEFVO010000055.1|provirus_10424_21430	7	1.0000	1246	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;

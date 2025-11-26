@@ -1,2 +1,0 @@
-seq_name	length	topology	coordinates	n_genes	genetic_code	virus_score	fdr	n_hallmarks	marker_enrichment	taxonomy
-JAYITX010000009.1|provirus_156436_177552	21117	Provirus	156436-177552	25	11	0.9928	NA	3	13.1342	Viruses;Monodnaviria;Loebvirae;Hofneiviricota;Faserviricetes;Tubulavirales;Inoviridae

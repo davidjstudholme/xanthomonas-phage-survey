@@ -1,2 +1,0 @@
-seq_name	length	topology	coordinates	n_genes	genetic_code	virus_score	fdr	n_hallmarks	marker_enrichment	taxonomy
-JAYIVM010000040.1|provirus_26380_31261	4882	Provirus	26380-31261	7	11	0.9995	NA	1	7.0762	Viruses;Monodnaviria;Loebvirae;Hofneiviricota;Faserviricetes;Tubulavirales;Inoviridae

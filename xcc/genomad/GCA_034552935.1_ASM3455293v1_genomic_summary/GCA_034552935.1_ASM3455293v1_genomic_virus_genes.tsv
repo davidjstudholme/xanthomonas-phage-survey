@@ -1,6 +1,0 @@
-gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
-JAUINW010000089.1_1	2	226	225	1	0.556	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
-JAUINW010000089.1_2	316	747	432	1	0.562	11	GGA/GAG/AGG	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
-JAUINW010000089.1_3	744	2714	1971	1	0.536	11	GGAG/GAGG	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
-JAUINW010000089.1_4	2718	4550	1833	1	0.549	11	GGAG/GAGG	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
-JAUINW010000089.1_5	4519	5655	1137	1	0.544	11	GGA/GAG/AGG	GENOMAD.064801.VV	6.117e-07	54	0	0	0	1246	Caudoviricetes	NA	NA	PF00145;TIGR00675;COG0270;K15336	DNA-methyltransferase (dcm)

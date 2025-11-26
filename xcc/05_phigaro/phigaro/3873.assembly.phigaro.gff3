@@ -1,0 +1,58 @@
+##gff-version 3.2.1
+##sequence-region 1 1 622202
+##sequence-region 2 1 349264
+##sequence-region 3 1 341604
+##sequence-region 4 1 310968
+##sequence-region 5 1 284469
+##sequence-region 6 1 282910
+##sequence-region 7 1 254656
+##sequence-region 8 1 197187
+##sequence-region 9 1 193783
+##sequence-region 10 1 183310
+##sequence-region 11 1 173155
+##sequence-region 12 1 163207
+##sequence-region 13 1 143520
+##sequence-region 14 1 127834
+##sequence-region 15 1 123029
+##sequence-region 16 1 122901
+##sequence-region 17 1 116471
+##sequence-region 18 1 111228
+##sequence-region 19 1 97453
+##sequence-region 20 1 91315
+##sequence-region 21 1 73757
+##sequence-region 22 1 65608
+##sequence-region 23 1 55528
+##sequence-region 24 1 50314
+##sequence-region 25 1 48323
+##sequence-region 26 1 40911
+##sequence-region 27 1 39236
+##sequence-region 28 1 38522
+##sequence-region 29 1 38097
+##sequence-region 30 1 36587
+##sequence-region 31 1 35293
+##sequence-region 32 1 33569
+##sequence-region 33 1 31583
+##sequence-region 34 1 26965
+1	.	prophage	57737	71644	.	.	.	ID=1_prophage1;taxonomy=Myoviridae / Podoviridae;transposable=False
+25	.	prophage	24901	31004	.	.	.	ID=25_prophage1;taxonomy=Microviridae;transposable=False
+1	.	gene	57737	58141	.	-	.	ID=1_57;Parent=1_prophage1;pvog=.
+1	.	gene	58737	59441	0.0037	+	.	ID=1_58;Parent=1_prophage1;pvog=VOG10953
+1	.	gene	59473	60210	1.2e-14	-	.	ID=1_59;Parent=1_prophage1;pvog=VOG0982
+1	.	gene	60219	60671	3.8e-50	-	.	ID=1_60;Parent=1_prophage1;pvog=VOG4714
+1	.	gene	60696	61247	0.003	-	.	ID=1_61;Parent=1_prophage1;pvog=VOG4571
+1	.	gene	61365	62132	7.3e-06	+	.	ID=1_62;Parent=1_prophage1;pvog=VOG5148
+1	.	gene	62129	63295	2.2e-08	+	.	ID=1_63;Parent=1_prophage1;pvog=VOG0038
+1	.	gene	64781	66751	.	-	.	ID=1_64;Parent=1_prophage1;pvog=.
+1	.	gene	67282	67554	4.1e-23	-	.	ID=1_65;Parent=1_prophage1;pvog=VOG0094
+1	.	gene	67769	70240	6.6e-09	-	.	ID=1_66;Parent=1_prophage1;pvog=VOG0996
+1	.	gene	70358	71644	1.8e-77	-	.	ID=1_67;Parent=1_prophage1;pvog=VOG2406
+25	.	gene	24901	25623	5.7e-12	-	.	ID=25_21;Parent=25_prophage1;pvog=VOG2013
+25	.	gene	26133	26300	7.2e-20	+	.	ID=25_22;Parent=25_prophage1;pvog=VOG10890
+25	.	gene	26387	27502	1.2e-07	+	.	ID=25_23;Parent=25_prophage1;pvog=VOG2233
+25	.	gene	27499	27795	3e-35	+	.	ID=25_24;Parent=25_prophage1;pvog=VOG0001
+25	.	gene	27799	28050	1e-26	+	.	ID=25_25;Parent=25_prophage1;pvog=VOG6824
+25	.	gene	28078	28206	3.7e-07	+	.	ID=25_26;Parent=25_prophage1;pvog=VOG7433
+25	.	gene	28796	29116	.	+	.	ID=25_27;Parent=25_prophage1;pvog=.
+25	.	gene	29068	29349	2.6e-06	+	.	ID=25_28;Parent=25_prophage1;pvog=VOG4430
+25	.	gene	29360	29680	5.2e-29	+	.	ID=25_29;Parent=25_prophage1;pvog=VOG4355
+25	.	gene	29682	31004	2.1e-70	+	.	ID=25_30;Parent=25_prophage1;pvog=VOG4757

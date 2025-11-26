@@ -1,3 +1,0 @@
-seq_name	length	topology	coordinates	n_genes	genetic_code	virus_score	fdr	n_hallmarks	marker_enrichment	taxonomy
-JAYINI010000006.1|provirus_15846_23499	7654	Provirus	15846-23499	12	11	0.9997	NA	2	13.0510	Viruses;Monodnaviria;Loebvirae;Hofneiviricota;Faserviricetes;Tubulavirales;Inoviridae
-JAYINI010000065.1	6262	No terminal repeats	NA	11	11	0.9249	NA	0	3.3114	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;

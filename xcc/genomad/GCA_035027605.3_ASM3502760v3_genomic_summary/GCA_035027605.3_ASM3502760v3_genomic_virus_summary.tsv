@@ -1,2 +1,0 @@
-seq_name	length	topology	coordinates	n_genes	genetic_code	virus_score	fdr	n_hallmarks	marker_enrichment	taxonomy
-CP142008.2|provirus_2828432_2836085	7654	Provirus	2828432-2836085	12	11	0.9997	NA	2	13.0510	Viruses;Monodnaviria;Loebvirae;Hofneiviricota;Faserviricetes;Tubulavirales;Inoviridae

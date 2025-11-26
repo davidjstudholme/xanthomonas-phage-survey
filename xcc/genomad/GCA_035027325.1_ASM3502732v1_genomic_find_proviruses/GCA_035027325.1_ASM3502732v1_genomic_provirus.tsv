@@ -1,3 +1,0 @@
-seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
-JAYISE010000037.1|provirus_35777_53541	JAYISE010000037.1	35777	53541	17765	19	24.6909	True	NA
-JAYISE010000055.1|provirus_1_10764	JAYISE010000055.1	1	10764	10764	18	18.7126	True	NA

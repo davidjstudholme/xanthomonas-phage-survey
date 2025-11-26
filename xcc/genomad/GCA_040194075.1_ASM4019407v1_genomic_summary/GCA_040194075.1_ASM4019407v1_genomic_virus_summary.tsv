@@ -1,3 +1,0 @@
-seq_name	length	topology	coordinates	n_genes	genetic_code	virus_score	fdr	n_hallmarks	marker_enrichment	taxonomy
-JBEFUE010000032.1|provirus_34775_53550	18776	Provirus	34775-53550	22	11	0.9976	NA	4	14.5066	Viruses;Monodnaviria;Loebvirae;Hofneiviricota;Faserviricetes;Tubulavirales;Inoviridae
-JBEFUE010000081.1	4054	No terminal repeats	NA	3	11	0.8692	NA	0	1.6232	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;

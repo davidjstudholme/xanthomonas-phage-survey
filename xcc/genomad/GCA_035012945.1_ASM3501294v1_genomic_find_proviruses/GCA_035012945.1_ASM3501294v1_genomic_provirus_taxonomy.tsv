@@ -1,5 +1,0 @@
-seq_name	n_genes_with_taxonomy	agreement	taxid	lineage
-JAYGQC010000007.1|provirus_1_21875	20	1.0000	1246	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
-JAYGQC010000014.1|provirus_1_12325	7	1.0000	1246	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
-JAYGQC010000019.1|provirus_3_13133	5	1.0000	1246	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
-JAYGQC010000019.1|provirus_95752_107486	7	1.0000	1246	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;

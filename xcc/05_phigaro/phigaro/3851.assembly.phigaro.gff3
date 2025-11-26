@@ -1,0 +1,44 @@
+##gff-version 3.2.1
+##sequence-region 1 1 631289
+##sequence-region 2 1 447260
+##sequence-region 3 1 297291
+##sequence-region 4 1 282329
+##sequence-region 5 1 238896
+##sequence-region 6 1 230475
+##sequence-region 7 1 213737
+##sequence-region 8 1 198526
+##sequence-region 9 1 197700
+##sequence-region 10 1 177065
+##sequence-region 11 1 172407
+##sequence-region 12 1 156092
+##sequence-region 13 1 131954
+##sequence-region 14 1 120455
+##sequence-region 15 1 116439
+##sequence-region 16 1 111860
+##sequence-region 17 1 111099
+##sequence-region 18 1 111060
+##sequence-region 19 1 95889
+##sequence-region 20 1 94457
+##sequence-region 21 1 80508
+##sequence-region 22 1 80136
+##sequence-region 23 1 79450
+##sequence-region 24 1 75210
+##sequence-region 25 1 53238
+##sequence-region 26 1 48121
+##sequence-region 27 1 46907
+##sequence-region 28 1 46014
+##sequence-region 29 1 40810
+##sequence-region 30 1 28467
+##sequence-region 31 1 23951
+1	.	prophage	223911	237833	.	.	.	ID=1_prophage1;taxonomy=Myoviridae / Podoviridae;transposable=False
+1	.	gene	223911	224315	.	-	.	ID=1_188;Parent=1_prophage1;pvog=.
+1	.	gene	224912	225616	0.0036	+	.	ID=1_189;Parent=1_prophage1;pvog=VOG10953
+1	.	gene	225648	226385	1.2e-14	-	.	ID=1_190;Parent=1_prophage1;pvog=VOG0982
+1	.	gene	226394	226846	3.7e-50	-	.	ID=1_191;Parent=1_prophage1;pvog=VOG4714
+1	.	gene	226871	227422	0.0029	-	.	ID=1_192;Parent=1_prophage1;pvog=VOG4571
+1	.	gene	227540	228307	7e-06	+	.	ID=1_193;Parent=1_prophage1;pvog=VOG5148
+1	.	gene	228304	229470	2.4e-08	+	.	ID=1_194;Parent=1_prophage1;pvog=VOG0038
+1	.	gene	230943	232913	.	-	.	ID=1_195;Parent=1_prophage1;pvog=.
+1	.	gene	233444	233716	3.9e-23	-	.	ID=1_196;Parent=1_prophage1;pvog=VOG0094
+1	.	gene	233931	236402	6.3e-09	-	.	ID=1_197;Parent=1_prophage1;pvog=VOG0996
+1	.	gene	236547	237833	1.7e-77	-	.	ID=1_198;Parent=1_prophage1;pvog=VOG2406

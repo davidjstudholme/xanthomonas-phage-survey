@@ -1,9 +1,0 @@
-gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
-JAYIPJ010000056.1_1	1	765	765	1	0.576	11	None	GENOMAD.222675.VP	2.26e-168	522	0	0	0	2773	Inoviridae	NA	NA	NA	NA
-JAYIPJ010000056.1_2	762	1058	297	1	0.593	11	GGA/GAG/AGG	GENOMAD.222243.VP	2.269e-49	170	0	0	1	2773	Inoviridae	NA	NA	PF02303	Helix-destabilising protein
-JAYIPJ010000056.1_3	1062	1313	252	1	0.643	11	GGA/GAG/AGG	GENOMAD.148914.VV	9.112e-21	87	0	0	1	1	NA	NA	NA	PF17091	Inovirus G7P protein
-JAYIPJ010000056.1_4	1341	1469	129	1	0.574	11	AGGAG	GENOMAD.112093.VV	2.595e-14	66	0	0	0	1	NA	NA	NA	NA	NA
-JAYIPJ010000056.1_5	1497	2216	720	1	0.590	11	GGA/GAG/AGG	GENOMAD.097192.VV	5.35e-13	71	0	0	0	2773	Inoviridae	NA	NA	NA	NA
-JAYIPJ010000066.1_1	44	511	468	-1	0.596	11	GGAGG	GENOMAD.212325.VP	1.821e-37	139	0	0	1	2773	Inoviridae	NA	NA	PF12375;PF12472	Phage protein; Phage related protein
-JAYIPJ010000066.1_2	544	882	339	1	0.655	11	GGA/GAG/AGG	GENOMAD.212325.VP	4.022e-50	173	0	0	1	2773	Inoviridae	NA	NA	PF12375;PF12472	Phage protein; Phage related protein
-JAYIPJ010000078.1_1	43	225	183	-1	0.601	11	None	GENOMAD.134219.VP	1.477e-13	65	0	0	1	1246	Caudoviricetes	NA	NA	PF05069;TIGR01635;COG5005	phage virion morphogenesis (putative tail completion) protein

@@ -1,2 +1,0 @@
-seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
-JBEFVG010000006.1|provirus_213080_227548	JBEFVG010000006.1	213080	227548	14469	18	13.8313	False	JBEFVG010000006.1|provirus_213080_227548_162

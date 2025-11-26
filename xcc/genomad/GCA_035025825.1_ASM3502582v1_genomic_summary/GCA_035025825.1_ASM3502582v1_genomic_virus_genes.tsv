@@ -1,7 +1,0 @@
-gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
-JAYIOH010000060.1_1	795	3278	2484	1	0.632	11	GGAGG	GENOMAD.043924.VV	3.278e-05	50	0	0	0	1246	Caudoviricetes	NA	NA	NA	NA
-JAYIOH010000060.1_2	3458	4501	1044	1	0.587	11	GGA/GAG/AGG	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
-JAYIOH010000060.1_3	4684	5169	486	1	0.638	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
-JAYIOH010000060.1_4	5138	5467	330	1	0.639	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
-JAYIOH010000060.1_5	5881	6282	402	1	0.667	11	GGA/GAG/AGG	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
-JAYIOH010000060.1_6	6394	7059	666	1	0.689	11	GGAG/GAGG	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA

@@ -1,3 +1,0 @@
-seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
-JAYITQ010000008.1|provirus_91740_137924	JAYITQ010000008.1	91740	137924	46185	65	60.4596	False	JAYITQ010000008.1|provirus_91740_137924_153
-JAYITQ010000009.1|provirus_61_5774	JAYITQ010000009.1	61	5774	5714	12	14.5611	True	NA

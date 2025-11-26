@@ -1,4 +1,0 @@
-JBEFVH010000002.1_257 # 306699 # 308630 # 1 # ID=2_257;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.610	COG0582	2.499E-54	194
-JBEFVH010000021.1_91 # 89507 # 90958 # 1 # ID=21_91;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.593	PF00589.RP35	3.064E-09	49
-JBEFVH010000005.1_42 # 45395 # 46366 # 1 # ID=5_42;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.704	TIGR02225	2.463E-117	367
-JBEFVH010000003.1_36 # 52515 # 53483 # 1 # ID=3_36;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.665	COG4973	4.417E-128	398

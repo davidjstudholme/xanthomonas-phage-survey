@@ -1,2 +1,0 @@
-seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
-JAYIPV010000034.1|provirus_12098_32794	JAYIPV010000034.1	12098	32794	20697	33	33.1241	False	JAYIPV010000034.1|provirus_12098_32794_10

@@ -1,2 +1,0 @@
-seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
-JAYITX010000009.1|provirus_156436_177552	JAYITX010000009.1	156436	177552	21117	25	17.4927	True	JAYITX010000009.1|provirus_156436_177552_152

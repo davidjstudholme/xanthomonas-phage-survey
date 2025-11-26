@@ -1,2 +1,0 @@
-seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
-JAUIOB010000006.1|provirus_10369_47506	JAUIOB010000006.1	10369	47506	37138	46	61.5285	False	JAUIOB010000006.1|provirus_10369_47506_57

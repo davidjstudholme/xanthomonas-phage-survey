@@ -1,6 +1,0 @@
-seq_name	length	topology	n_genes	genetic_code	plasmid_score	fdr	n_hallmarks	marker_enrichment	conjugation_genes	amr_genes
-JAYIQP010000016.1	103948	No terminal repeats	92	11	0.9998	NA	0	3.5431	B_traH	NA
-JAYIQP010000030.1	30758	No terminal repeats	28	11	0.9998	NA	0	4.1573	NA	NA
-JAYIQP010000041.1	12656	No terminal repeats	3	11	0.9991	NA	0	1.3046	NA	NA
-JAYIQP010000045.1	5611	No terminal repeats	6	11	0.8892	NA	0	0.2443	NA	NA
-JAYIQP010000042.1	8803	No terminal repeats	7	11	0.8827	NA	0	0.4679	NA	NA

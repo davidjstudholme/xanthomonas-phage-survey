@@ -1,6 +1,0 @@
-JAUINI010000027.1_5 # 3528 # 5408 # -1 # ID=27_5;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.579	PRK09692	9.502E-56	198
-JAUINI010000006.1_98 # 114052 # 115512 # 1 # ID=6_98;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.591	PF00589.RP35	2.628E-12	59
-JAUINI010000025.1_52 # 60043 # 61368 # 1 # ID=25_52;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.584	PF00589.RP35	2.215E-12	59
-JAUINI010000006.1_117 # 132776 # 133771 # -1 # ID=6_117;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.550	PF00589.RP35	9.228E-17	72
-JAUINI010000041.1_35 # 39326 # 40297 # 1 # ID=41_35;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.698	TIGR02225	2.463E-117	367
-JAUINI010000030.1_14 # 20663 # 21631 # 1 # ID=30_14;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.689	PF00589.RP35	5.456E-13	60

@@ -1,9 +1,0 @@
-JAUIPH010000013.1_60 # 46265 # 47506 # 1 # ID=13_60;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.647	PF00589.RP35	1.415E-06	40
-JAUIPH010000007.1_94 # 107545 # 108939 # -1 # ID=7_94;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.595	PF00589.RP35	1.994E-15	69
-JAUIPH010000003.1_167 # 189524 # 190753 # 1 # ID=3_167;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.615	PRK09692	3.363E-73	243
-JAUIPH010000017.1_80 # 88061 # 89530 # 1 # ID=17_80;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.597	PF00589.RP35	2.655E-12	59
-JAUIPH010000005.1_73 # 89726 # 91126 # -1 # ID=5_73;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.610	PF00589.RP35	3.458E-14	65
-JAUIPH010000001.1_222 # 253432 # 254403 # -1 # ID=1_222;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.709	TIGR02225	2.463E-117	367
-JAUIPH010000052.1_12 # 13681 # 14928 # 1 # ID=52_12;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.504	PF00589.RP35	1.336E-14	66
-JAUIPH010000005.1_64 # 82264 # 83793 # 1 # ID=5_64;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.620	PF00589.RP35	8.263E-14	64
-JAUIPH010000015.1_10 # 12667 # 13857 # -1 # ID=15_10;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.589	PRK09692	7.331E-43	153

@@ -1,5 +1,0 @@
-seq_name	length	topology	n_genes	genetic_code	plasmid_score	fdr	n_hallmarks	marker_enrichment	conjugation_genes	amr_genes
-JAYIQY010000033.1	57431	No terminal repeats	61	11	1.0000	NA	18	42.4991	G_tfc2;G_tfc3;T_virB1;G_tfc5;t4cp1;G_tfc7;G_tfc8;G_tfc9;G_tfc10;G_tfc11;G_tfc12;G_tfc13;G_tfc14;G_tfc15;virb4;G_tfc24;G_tfc23;G_tfc22;G_tfc18;G_tfc19;MOBH	NA
-JAYIQY010000046.1	15181	No terminal repeats	12	11	0.9980	NA	0	1.2466	NA	NA
-JAYIQY010000049.1	8971	No terminal repeats	7	11	0.8114	NA	0	0.3254	NA	NA
-JAYIQY010000039.1	33266	No terminal repeats	28	11	0.8002	NA	0	3.0122	NA	NA

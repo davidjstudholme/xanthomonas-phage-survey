@@ -1,5 +1,0 @@
-seq_name	length	topology	coordinates	n_genes	genetic_code	virus_score	fdr	n_hallmarks	marker_enrichment	taxonomy
-JAUINX010000037.1|provirus_15853_23856	8004	Provirus	15853-23856	14	11	0.9997	NA	3	14.3714	Viruses;Monodnaviria;Loebvirae;Hofneiviricota;Faserviricetes;Tubulavirales;Inoviridae
-JAUINX010000066.1	9585	DTR	NA	13	11	0.9790	NA	0	1.1083	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
-JAUINX010000073.1	6254	No terminal repeats	NA	11	11	0.9281	NA	0	3.3114	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
-JAUINX010000081.1	2408	No terminal repeats	NA	4	11	0.7470	NA	1	1.3647	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;

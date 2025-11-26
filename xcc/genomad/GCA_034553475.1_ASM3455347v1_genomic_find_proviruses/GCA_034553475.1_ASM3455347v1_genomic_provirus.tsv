@@ -1,2 +1,0 @@
-seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
-JAUIOT010000027.1|provirus_20723_31413	JAUIOT010000027.1	20723	31413	10691	15	18.2353	False	JAUIOT010000027.1|provirus_20723_31413_15

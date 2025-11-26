@@ -1,3 +1,0 @@
-seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
-JAYIMT010000010.1|provirus_84604_125019	JAYIMT010000010.1	84604	125019	40416	66	60.3325	False	JAYIMT010000010.1|provirus_84604_125019_146
-JAYIMT010000011.1|provirus_61_5774	JAYIMT010000011.1	61	5774	5714	12	14.5611	True	NA

@@ -1,9 +1,0 @@
-{
-    "module": "nn_classification",
-    "input": "GCA_035026145.1_ASM3502614v1_genomic.fna",
-    "input_md5": "17112839f9f11137974a3a218bec27e6",
-    "start_time": "2025-11-08T16:15:01.774519+00:00",
-    "parameters": {
-        "single_window": false
-    }
-}

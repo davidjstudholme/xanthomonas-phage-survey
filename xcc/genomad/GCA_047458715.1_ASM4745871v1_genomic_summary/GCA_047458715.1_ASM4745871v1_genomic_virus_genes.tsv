@@ -1,6 +1,0 @@
-gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
-RRXF01000055.1_1	3	110	108	1	0.574	11	None	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
-RRXF01000055.1_2	133	477	345	1	0.672	11	AGGA/GGAG/GAGG	GENOMAD.119442.VP	4.447e-26	104	0	0	1	1246	Caudoviricetes	NA	NA	PF04717;COG4540;TIGR01644	Phage P2 baseplate assembly protein gpV
-RRXF01000055.1_3	642	1523	882	-1	0.486	11	GGA/GAG/AGG	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
-RRXF01000055.1_4	1868	2131	264	1	0.591	11	AGGAG	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
-RRXF01000055.1_5	2125	2532	408	1	0.630	11	4Base/6BMM	NA	NA	NA	0	0	0	1	NA	NA	NA	NA	NA
