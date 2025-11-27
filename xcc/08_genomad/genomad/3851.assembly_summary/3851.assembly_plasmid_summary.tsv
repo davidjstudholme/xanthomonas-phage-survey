@@ -1,0 +1,8 @@
+seq_name	length	topology	n_genes	genetic_code	plasmid_score	fdr	n_hallmarks	marker_enrichment	conjugation_genes	amr_genes
+39	9522	No terminal repeats	10	11	1.0000	NA	2	8.9978	MOBH;G_tfc19;G_tfc18;G_tfc22;G_tfc23	NA
+49	3417	No terminal repeats	6	11	1.0000	NA	0	2.9906	NA	NA
+38	11547	No terminal repeats	10	11	1.0000	NA	2	5.1548	T_virB6;B_traI	NA
+32	17966	No terminal repeats	19	11	0.9999	NA	0	3.1964	NA	NA
+34	16454	No terminal repeats	11	11	0.9999	NA	0	0.2090	NA	NA
+40	9497	No terminal repeats	7	11	0.9006	NA	0	0.2071	NA	NA
+27	46907	No terminal repeats	40	11	0.7378	NA	0	0.8870	NA	NF012174

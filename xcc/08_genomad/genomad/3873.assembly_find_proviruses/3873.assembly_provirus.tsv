@@ -1,0 +1,2 @@
+seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
+25|provirus_18090_32554	25	18090	32554	14465	21	15.4546	False	25|provirus_18090_32554_14

@@ -1,0 +1,11 @@
+{
+    "module": "annotate",
+    "input": "738C.assembly.fasta",
+    "input_md5": "ccfabec8073b279299e10b39df9f5b45",
+    "start_time": "2025-11-27T07:28:16.869643+00:00",
+    "parameters": {
+        "use_minimal_db": false,
+        "sensitivity": 4.2,
+        "evalue": 0.001
+    }
+}

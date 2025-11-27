@@ -1,0 +1,7 @@
+{
+    "module": "marker_classification",
+    "input": "3873.assembly.fasta",
+    "input_md5": "210be03e1bc86307db5d4a8eeb50f0af",
+    "start_time": "2025-11-27T07:27:57.461922+00:00",
+    "parameters": {}
+}

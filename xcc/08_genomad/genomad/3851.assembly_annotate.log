@@ -12,3 +12,8 @@
 [07:23:47] Executing genomad annotate.                                                                                                                                      
 [07:23:47] Creating the genomad/3851.assembly_annotate directory.                                                                                                           
 [07:23:51] Proteins predicted with pyrodigal-gv were written to 3851.assembly_proteins.faa.                                                                                 
+[07:24:57] Proteins annotated with MMseqs2 and geNomad database (v1.9) were written to 3851.assembly_mmseqs2.tsv.                                                           
+[07:24:57] Deleting 3851.assembly_mmseqs2.                                                                                                                                  
+[07:24:59] Gene data was written to 3851.assembly_genes.tsv.                                                                                                                
+[07:24:59] Taxonomic assignment data was written to 3851.assembly_taxonomy.tsv.                                                                                             
+[07:24:59] geNomad annotate finished!                                                                                                                                       
