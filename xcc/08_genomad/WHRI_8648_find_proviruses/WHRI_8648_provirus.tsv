@@ -1,0 +1,3 @@
+seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
+JAYITP010000026.1|provirus_56922_71800	JAYITP010000026.1	56922	71800	14879	15	17.0794	True	NA
+JAYITP010000054.1|provirus_1_11007	JAYITP010000054.1	1	11007	11007	18	18.7126	True	NA

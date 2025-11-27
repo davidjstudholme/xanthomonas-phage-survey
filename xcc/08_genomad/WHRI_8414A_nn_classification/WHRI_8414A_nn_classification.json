@@ -1,0 +1,9 @@
+{
+    "module": "nn_classification",
+    "input": "WHRI_8414A.fasta",
+    "input_md5": "a9746cdffd1dd7108316652f78997b47",
+    "start_time": "2025-11-27T13:06:45.088508+00:00",
+    "parameters": {
+        "single_window": false
+    }
+}

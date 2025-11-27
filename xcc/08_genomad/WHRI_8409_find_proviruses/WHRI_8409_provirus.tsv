@@ -1,0 +1,2 @@
+seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
+JAYITU010000034.1|provirus_35396_41086	JAYITU010000034.1	35396	41086	5691	10	12.9462	True	NA

@@ -12,3 +12,8 @@
 [12:36:11] Executing genomad annotate.                                                                                                                                      
 [12:36:11] Creating the WHRI_8021_annotate directory.                                                                                                                       
 [12:36:15] Proteins predicted with pyrodigal-gv were written to WHRI_8021_proteins.faa.                                                                                     
+[12:37:14] Proteins annotated with MMseqs2 and geNomad database (v1.9) were written to WHRI_8021_mmseqs2.tsv.                                                               
+[12:37:14] Deleting WHRI_8021_mmseqs2.                                                                                                                                      
+[12:37:15] Gene data was written to WHRI_8021_genes.tsv.                                                                                                                    
+[12:37:15] Taxonomic assignment data was written to WHRI_8021_taxonomy.tsv.                                                                                                 
+[12:37:15] geNomad annotate finished!                                                                                                                                       

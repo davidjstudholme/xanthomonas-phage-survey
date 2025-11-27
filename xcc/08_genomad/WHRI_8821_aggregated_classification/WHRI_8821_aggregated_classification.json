@@ -1,0 +1,7 @@
+{
+    "module": "aggregated_classification",
+    "input": "WHRI_8821.fasta",
+    "input_md5": "47f9d2f951c59ae44eeb541798a6509d",
+    "start_time": "2025-11-27T14:33:54.965583+00:00",
+    "parameters": {}
+}

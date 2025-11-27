@@ -1,0 +1,24 @@
+seq_name	length	topology	n_genes	genetic_code	plasmid_score	fdr	n_hallmarks	marker_enrichment	conjugation_genes	amr_genes
+JBEFUL010000079.1	4793	No terminal repeats	8	11	1.0000	NA	1	0.8764	NA	NA
+JBEFUL010000023.1	83112	No terminal repeats	74	11	1.0000	NA	17	12.7973	MOBH;G_tfc19;G_tfc18;G_tfc22;G_tfc23;G_tfc24;virb4;G_tfc15;G_tfc14;G_tfc13;G_tfc12;G_tfc11;G_tfc10;G_tfc9;G_tfc8;G_tfc7;t4cp1;G_tfc5;T_virB1;G_tfc3;G_tfc2;MOBT	NA
+JBEFUL010000044.1	39088	No terminal repeats	51	11	1.0000	NA	10	21.1336	T_virB10;T_virB9;T_virB8;T_virB6;T_virB5;T_virB3;T_virB2	NA
+JBEFUL010000095.1	2320	No terminal repeats	3	11	0.9999	NA	1	3.3925	T_virB6	NA
+JBEFUL010000061.1	19826	No terminal repeats	25	11	0.9999	NA	2	9.8486	T_virB3	NA
+JBEFUL010000057.1	23291	No terminal repeats	20	11	0.9999	NA	0	1.9629	NA	NA
+JBEFUL010000066.1	13027	No terminal repeats	14	11	0.9999	NA	0	2.7907	NA	NA
+JBEFUL010000073.1	10221	No terminal repeats	10	11	0.9999	NA	0	1.8417	NA	NA
+JBEFUL010000071.1	10726	No terminal repeats	6	11	0.9999	NA	1	2.4488	NA	NA
+JBEFUL010000054.1	27554	No terminal repeats	32	11	0.9998	NA	1	4.4474	I_traY;I_traW;I_trbA	NA
+JBEFUL010000031.1	68528	No terminal repeats	77	11	0.9998	NA	6	18.9949	traU;I_traN;I_traM;I_traI;I_traK	NA
+JBEFUL010000067.1	12660	No terminal repeats	10	11	0.9997	NA	0	0.4902	NA	NA
+JBEFUL010000060.1	20596	No terminal repeats	26	11	0.9997	NA	2	2.2434	NA	NA
+JBEFUL010000091.1	2516	No terminal repeats	4	11	0.9997	NA	1	3.4366	T_virB6	NA
+JBEFUL010000059.1	20930	No terminal repeats	23	11	0.9997	NA	0	1.1415	NA	NA
+JBEFUL010000045.1	38302	No terminal repeats	39	11	0.9997	NA	0	9.4956	NA	NA
+JBEFUL010000065.1	13228	No terminal repeats	13	11	0.9997	NA	5	7.5758	T_virB8;T_virB9;T_virB2;T_virB3;virb4	NA
+JBEFUL010000123.1	637	No terminal repeats	2	11	0.9991	NA	1	1.7183	T_virB6	NA
+JBEFUL010000072.1	10293	No terminal repeats	12	11	0.9983	NA	0	1.1242	NA	NA
+JBEFUL010000082.1	4460	No terminal repeats	5	11	0.9797	NA	0	0.2163	NA	NA
+JBEFUL010000064.1	14989	No terminal repeats	19	11	0.9670	NA	0	0.8214	NA	NA
+JBEFUL010000077.1	5224	No terminal repeats	5	11	0.9644	NA	0	0.2071	NA	NA
+JBEFUL010000048.1	36119	No terminal repeats	27	11	0.9476	NA	0	2.2085	NA	NA

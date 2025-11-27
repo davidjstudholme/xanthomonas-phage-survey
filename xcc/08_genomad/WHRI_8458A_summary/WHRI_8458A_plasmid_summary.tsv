@@ -1,0 +1,9 @@
+seq_name	length	topology	n_genes	genetic_code	plasmid_score	fdr	n_hallmarks	marker_enrichment	conjugation_genes	amr_genes
+JAYINC010000059.1	7845	No terminal repeats	10	11	1.0000	NA	2	5.1548	T_virB6;B_traI	NA
+JAYINC010000040.1	37933	No terminal repeats	46	11	1.0000	NA	11	24.2759	T_virB10;T_virB9;T_virB8;T_virB6;T_virB5;T_virB3;T_virB2	NA
+JAYINC010000071.1	2615	No terminal repeats	3	11	0.9999	NA	0	1.6662	NA	NA
+JAYINC010000044.1	32995	No terminal repeats	24	11	0.9998	NA	0	1.7225	NA	NA
+JAYINC010000064.1	4589	No terminal repeats	7	11	0.9993	NA	0	1.2723	NA	NA
+JAYINC010000041.1	37545	No terminal repeats	31	11	0.9990	NA	0	2.8653	NA	NA
+JAYINC010000056.1	9570	No terminal repeats	7	11	0.9603	NA	0	0.2071	NA	NA
+JAYINC010000045.1	30560	No terminal repeats	22	11	0.7976	NA	0	0.7474	NA	NF033135

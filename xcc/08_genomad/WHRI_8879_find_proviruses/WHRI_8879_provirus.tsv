@@ -1,0 +1,2 @@
+seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
+JAYIRO010000044.1|provirus_1_4882	JAYIRO010000044.1	1	4882	4882	7	8.1776	True	NA

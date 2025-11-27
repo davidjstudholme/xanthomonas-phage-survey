@@ -1,0 +1,3 @@
+seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
+JAYIRW010000013.1|provirus_100738_118563	JAYIRW010000013.1	100738	118563	17826	21	24.6909	True	NA
+JAYIRW010000054.1|provirus_10424_23203	JAYIRW010000054.1	10424	23203	12780	18	18.6630	True	NA

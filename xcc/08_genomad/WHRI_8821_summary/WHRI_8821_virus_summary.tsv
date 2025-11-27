@@ -1,0 +1,13 @@
+seq_name	length	topology	coordinates	n_genes	genetic_code	virus_score	fdr	n_hallmarks	marker_enrichment	taxonomy
+JBEFUK010000089.1	2861	No terminal repeats	NA	5	11	0.9998	NA	4	7.7122	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JBEFUK010000056.1|provirus_10427_21433	11007	Provirus	10427-21433	18	11	0.9992	NA	2	15.9263	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JBEFUK010000034.1|provirus_42_17806	17765	Provirus	42-17806	19	11	0.9991	NA	8	19.9548	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JBEFUK010000093.1	2486	No terminal repeats	NA	3	11	0.9990	NA	3	4.1533	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JBEFUK010000023.1|provirus_15738_24969	9232	Provirus	15738-24969	13	11	0.9990	NA	3	14.5292	Viruses;Monodnaviria;Loebvirae;Hofneiviricota;Faserviricetes;Tubulavirales;Inoviridae
+JBEFUK010000096.1	2114	No terminal repeats	NA	2	11	0.9977	NA	1	1.4634	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JBEFUK010000124.1	670	No terminal repeats	NA	1	11	0.9928	NA	1	1.3647	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JBEFUK010000120.1	741	No terminal repeats	NA	1	11	0.9924	NA	1	1.4263	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JBEFUK010000099.1	1999	No terminal repeats	NA	4	11	0.9859	NA	3	5.4286	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JBEFUK010000119.1	790	No terminal repeats	NA	3	11	0.9671	NA	2	2.7957	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+JBEFUK010000075.1	5988	No terminal repeats	NA	7	11	0.9418	NA	0	1.7183	Viruses;Monodnaviria;Loebvirae;Hofneiviricota;Faserviricetes;Tubulavirales;Inoviridae
+JBEFUK010000125.1	656	No terminal repeats	NA	1	11	0.8085	NA	1	1.2618	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;

@@ -1,0 +1,17 @@
+╭──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│  Executing geNomad aggregated-classification (v1.11.1). This will aggregate the results of the marker-classification and nn-classification modules to classify the       │
+│  input sequences into chromosome, plasmid, or virus.                                                                                                                     │
+│  ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────  │
+│  Outputs:                                                                                                                                                                │
+│    WHRI_8022A_aggregated_classification                                                                                                                                  │
+│    ├── WHRI_8022A_aggregated_classification.json (execution parameters)                                                                                                  │
+│    ├── WHRI_8022A_aggregated_classification.tsv (sequence classification: tabular format)                                                                                │
+│    └── WHRI_8022A_aggregated_classification.npz (sequence classification: binary format)                                                                                 │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+[12:38:57] Executing genomad aggregated-classification.                                                                                                                     
+[12:38:57] Creating the WHRI_8022A_aggregated_classification directory.                                                                                                     
+[12:38:57] The total marker frequencies of the input sequences were computed.                                                                                               
+[12:38:57] Sequences classified.                                                                                                                                            
+[12:38:57] Sequence classification in binary format written to WHRI_8022A_aggregated_classification.npz.                                                                    
+[12:38:57] Sequence classification in tabular format written to WHRI_8022A_aggregated_classification.tsv.                                                                   
+[12:38:57] geNomad aggregated-classification finished!                                                                                                                      

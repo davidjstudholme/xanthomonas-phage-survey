@@ -1,0 +1,22 @@
+╭──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│  Executing geNomad aggregated-classification (v1.11.1). This will aggregate the results of the marker-classification and nn-classification modules to classify the       │
+│  input sequences into chromosome, plasmid, or virus.                                                                                                                     │
+│  ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────  │
+│  Outputs:                                                                                                                                                                │
+│    WHRI_8322_aggregated_classification                                                                                                                                   │
+│    ├── WHRI_8322_aggregated_classification.json (execution parameters)                                                                                                   │
+│    ├── WHRI_8322_aggregated_classification.tsv (sequence classification: tabular format)                                                                                 │
+│    ├── WHRI_8322_aggregated_classification.npz (sequence classification: binary format)                                                                                  │
+│    ├── WHRI_8322_provirus_aggregated_classification.tsv (provirus classification: tabular format)                                                                        │
+│    └── WHRI_8322_provirus_aggregated_classification.npz (provirus classification: binary format)                                                                         │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+[12:48:40] Executing genomad aggregated-classification.                                                                                                                     
+[12:48:40] Creating the WHRI_8322_aggregated_classification directory.                                                                                                      
+[12:48:40] The total marker frequencies of the input sequences were computed.                                                                                               
+[12:48:40] Sequences classified.                                                                                                                                            
+[12:48:40] Sequence classification in binary format written to WHRI_8322_aggregated_classification.npz.                                                                     
+[12:48:40] Sequence classification in tabular format written to WHRI_8322_aggregated_classification.tsv.                                                                    
+[12:48:40] Proviruses classified.                                                                                                                                           
+[12:48:40] Provirus classification in binary format written to WHRI_8322_provirus_aggregated_classification.npz.                                                            
+[12:48:40] Provirus classification in tabular format written to WHRI_8322_provirus_aggregated_classification.tsv.                                                           
+[12:48:40] geNomad aggregated-classification finished!                                                                                                                      

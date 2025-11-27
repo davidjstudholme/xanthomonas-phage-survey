@@ -1,0 +1,4 @@
+seq_name	chromosome_score	plasmid_score	virus_score
+JAYISA010000026.1|provirus_61_14861	0.0001	0.0000	0.9998
+JAYISA010000038.1|provirus_42_17806	0.0000	0.0004	0.9995
+JAYISA010000054.1|provirus_1_11007	0.0000	0.0000	1.0000

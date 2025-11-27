@@ -1,0 +1,21 @@
+╭──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│  Executing geNomad marker-classification (v1.11.1). This will classify the input sequences into chromosome, plasmid, or virus based on the presence of geNomad markers   │
+│  and other gene-related features.                                                                                                                                        │
+│  ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────  │
+│  Outputs:                                                                                                                                                                │
+│    WHRI_8500_marker_classification                                                                                                                                       │
+│    ├── WHRI_8500_marker_classification.json (execution parameters)                                                                                                       │
+│    ├── WHRI_8500_features.tsv (sequence feature data: tabular format)                                                                                                    │
+│    ├── WHRI_8500_features.npz (sequence feature data: binary format)                                                                                                     │
+│    ├── WHRI_8500_marker_classification.tsv (sequence classification: tabular format)                                                                                     │
+│    └── WHRI_8500_marker_classification.npz (sequence classification: binary format)                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+[13:46:57] Executing genomad marker-classification.                                                                                                                         
+[13:46:57] Creating the WHRI_8500_marker_classification directory.                                                                                                          
+[13:46:57] Sequence features computed.                                                                                                                                      
+[13:46:57] Sequence features in binary format written to WHRI_8500_features.npz.                                                                                            
+[13:46:57] Sequence features in tabular format written to WHRI_8500_features.tsv.                                                                                           
+[13:46:57] Sequences classified.                                                                                                                                            
+[13:46:57] Sequence classification in binary format written to WHRI_8500_marker_classification.npz.                                                                         
+[13:46:57] Sequence classification in tabular format written to WHRI_8500_marker_classification.tsv.                                                                        
+[13:46:57] geNomad marker-classification finished!                                                                                                                          

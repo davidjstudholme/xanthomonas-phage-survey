@@ -1,0 +1,4 @@
+seq_name	chromosome_score	plasmid_score	virus_score
+JAYIWO010000023.1|provirus_61_14939	0.0002	0.0012	0.9986
+JAYIWO010000037.1|provirus_35777_53541	0.0001	0.0006	0.9992
+JAYIWO010000063.1|provirus_10424_21430	0.0002	0.0006	0.9992

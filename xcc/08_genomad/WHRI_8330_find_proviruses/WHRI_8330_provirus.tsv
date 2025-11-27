@@ -1,0 +1,2 @@
+seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
+JAYIVR010000046.1|provirus_15846_24070	JAYIVR010000046.1	15846	24070	8225	15	16.2876	True	NA

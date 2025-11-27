@@ -1,0 +1,28 @@
+╭──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│  Executing geNomad find-proviruses (v1.11.1). This will find putative proviral regions within the input sequences.                                                       │
+│  ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────  │
+│  Outputs:                                                                                                                                                                │
+│    WHRI_8721_find_proviruses                                                                                                                                             │
+│    ├── WHRI_8721_find_proviruses.json (execution parameters)                                                                                                             │
+│    ├── WHRI_8721_provirus.tsv (provirus data)                                                                                                                            │
+│    ├── WHRI_8721_provirus.fna (provirus nucleotide sequences)                                                                                                            │
+│    ├── WHRI_8721_provirus_proteins.faa (provirus protein sequences)                                                                                                      │
+│    ├── WHRI_8721_provirus_genes.tsv (provirus gene annotation data)                                                                                                      │
+│    ├── WHRI_8721_provirus_taxonomy.tsv (provirus taxonomic assignment)                                                                                                   │
+│    ├── WHRI_8721_provirus_mmseqs2.tsv (MMseqs2 output file)                                                                                                              │
+│    └── WHRI_8721_provirus_aragorn.tsv (Aragorn output file)                                                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+[14:13:00] Executing genomad find-proviruses.                                                                                                                               
+[14:13:00] Creating the WHRI_8721_find_proviruses directory.                                                                                                                
+[14:13:04] Integrases identified with MMseqs2 and geNomad database (v1.9) were written to WHRI_8721_provirus_mmseqs2.tsv.                                                   
+[14:13:04] Deleting WHRI_8721_provirus_mmseqs2.                                                                                                                             
+[14:13:04] Deleting WHRI_8721_provirus_mmseqs2_input.faa.                                                                                                                   
+[14:13:05] tRNAs identified with Aragorn were written to WHRI_8721_provirus_aragorn.tsv.                                                                                    
+[14:13:05] Deleting WHRI_8721_provirus_aragorn_input.fna.                                                                                                                   
+[14:13:05] Provirus regions identified.                                                                                                                                     
+[14:13:05] Provirus data was written to WHRI_8721_provirus.tsv.                                                                                                             
+[14:13:05] Provirus nucleotide sequences were written to WHRI_8721_provirus.fna.                                                                                            
+[14:13:05] Provirus protein sequences were written to WHRI_8721_provirus_proteins.faa.                                                                                      
+[14:13:05] Provirus gene data was written to WHRI_8721_provirus_genes.tsv.                                                                                                  
+[14:13:06] Taxonomic assignment data was written to WHRI_8721_provirus_taxonomy.tsv.                                                                                        
+[14:13:06] geNomad find-proviruses finished!                                                                                                                                
