@@ -1,0 +1,3 @@
+seq_name	length	topology	coordinates	n_genes	genetic_code	virus_score	fdr	n_hallmarks	marker_enrichment	taxonomy
+33|provirus_34704_42000	7297	Provirus	34704-42000	14	11	0.9997	NA	4	17.5679	Viruses;Monodnaviria;Loebvirae;Hofneiviricota;Faserviricetes;Tubulavirales;Inoviridae
+76	3904	No terminal repeats	NA	3	11	0.9458	NA	0	1.6232	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;

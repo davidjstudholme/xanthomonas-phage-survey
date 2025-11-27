@@ -1,0 +1,19 @@
+╭──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│  Executing geNomad annotate (v1.11.1). This will perform gene calling in the input sequences and annotate the predicted proteins with geNomad's markers.                 │
+│  ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────  │
+│  Outputs:                                                                                                                                                                │
+│    WHRI_6087_annotate                                                                                                                                                    │
+│    ├── WHRI_6087_annotate.json (execution parameters)                                                                                                                    │
+│    ├── WHRI_6087_genes.tsv (gene annotation data)                                                                                                                        │
+│    ├── WHRI_6087_taxonomy.tsv (taxonomic assignment)                                                                                                                     │
+│    ├── WHRI_6087_mmseqs2.tsv (MMseqs2 output file)                                                                                                                       │
+│    └── WHRI_6087_proteins.faa (protein FASTA file)                                                                                                                       │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+[10:55:20] Executing genomad annotate.                                                                                                                                      
+[10:55:20] Creating the WHRI_6087_annotate directory.                                                                                                                       
+[10:55:24] Proteins predicted with pyrodigal-gv were written to WHRI_6087_proteins.faa.                                                                                     
+[10:56:21] Proteins annotated with MMseqs2 and geNomad database (v1.9) were written to WHRI_6087_mmseqs2.tsv.                                                               
+[10:56:21] Deleting WHRI_6087_mmseqs2.                                                                                                                                      
+[10:56:22] Gene data was written to WHRI_6087_genes.tsv.                                                                                                                    
+[10:56:22] Taxonomic assignment data was written to WHRI_6087_taxonomy.tsv.                                                                                                 
+[10:56:22] geNomad annotate finished!                                                                                                                                       

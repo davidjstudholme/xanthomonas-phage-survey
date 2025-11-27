@@ -1,0 +1,4 @@
+JAUIOA010000015.1_9 # 6830 # 8323 # -1 # ID=15_9;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.614	PF00589.RP35	5.536E-12	58
+JAUIOA010000002.1_89 # 100423 # 101394 # 1 # ID=2_89;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.704	TIGR02225	2.463E-117	367
+JAUIOA010000025.1_52 # 68920 # 70425 # 1 # ID=25_52;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.611	PF00589.RP35	8.035E-14	64
+JAUIOA010000027.1_57 # 67585 # 68733 # -1 # ID=27_57;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;genetic_code=11;gc_cont=0.581	PF00589.RP35	1.268E-15	69

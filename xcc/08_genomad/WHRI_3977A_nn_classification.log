@@ -1,0 +1,28 @@
+╭──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│  Executing geNomad nn-classification (v1.11.1). This will classify the input sequences into chromosome, plasmid, or virus based on the nucleotide sequence.              │
+│  ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────  │
+│  Outputs:                                                                                                                                                                │
+│    WHRI_3977A_nn_classification                                                                                                                                          │
+│    ├── WHRI_3977A_nn_classification.json (execution parameters)                                                                                                          │
+│    ├── WHRI_3977A_encoded_sequences (directory containing encoded sequence data)                                                                                         │
+│    ├── WHRI_3977A_nn_classification.tsv (contig classification: tabular format)                                                                                          │
+│    ├── WHRI_3977A_nn_classification.npz (contig classification: binary format)                                                                                           │
+│    ├── WHRI_3977A_encoded_proviruses (directory containing encoded sequence data)                                                                                        │
+│    ├── WHRI_3977A_provirus_nn_classification.tsv (provirus classification: tabular format)                                                                               │
+│    └── WHRI_3977A_provirus_nn_classification.npz (provirus classification: binary format)                                                                                │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+[08:37:42] Executing genomad nn-classification.                                                                                                                             
+[08:37:42] Creating the WHRI_3977A_nn_classification directory.                                                                                                             
+[08:37:42] Creating the WHRI_3977A_nn_classification/WHRI_3977A_encoded_sequences directory.                                                                                
+[08:37:43] Encoded sequence data written to WHRI_3977A_encoded_sequences.                                                                                                   
+[08:37:43] Creating the WHRI_3977A_nn_classification/WHRI_3977A_encoded_proviruses directory.                                                                               
+[08:37:43] Encoded provirus data written to WHRI_3977A_encoded_proviruses.                                                                                                  
+[08:37:50] Sequences classified.                                                                                                                                            
+[08:37:50] Sequence classification in binary format written to WHRI_3977A_nn_classification.npz.                                                                            
+[08:37:50] Deleting encoded sequence data.                                                                                                                                  
+[08:37:51] Sequence classification in tabular format written to WHRI_3977A_nn_classification.tsv.                                                                           
+[08:37:53] Proviruses classified.                                                                                                                                           
+[08:37:53] Provirus classification in binary format written to WHRI_3977A_provirus_nn_classification.npz.                                                                   
+[08:37:53] Deleting encoded provirus data.                                                                                                                                  
+[08:37:53] Provirus classification in tabular format written to WHRI_3977A_provirus_nn_classification.tsv.                                                                  
+[08:37:53] geNomad nn-classification finished!                                                                                                                              

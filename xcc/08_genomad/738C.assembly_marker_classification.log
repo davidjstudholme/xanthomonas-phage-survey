@@ -1,0 +1,31 @@
+╭──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│  Executing geNomad marker-classification (v1.11.1). This will classify the input sequences into chromosome, plasmid, or virus based on the presence of geNomad markers   │
+│  and other gene-related features.                                                                                                                                        │
+│  ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────  │
+│  Outputs:                                                                                                                                                                │
+│    738C.assembly_marker_classification                                                                                                                                   │
+│    ├── 738C.assembly_marker_classification.json (execution parameters)                                                                                                   │
+│    ├── 738C.assembly_features.tsv (sequence feature data: tabular format)                                                                                                │
+│    ├── 738C.assembly_features.npz (sequence feature data: binary format)                                                                                                 │
+│    ├── 738C.assembly_marker_classification.tsv (sequence classification: tabular format)                                                                                 │
+│    ├── 738C.assembly_marker_classification.npz (sequence classification: binary format)                                                                                  │
+│    ├── 738C.assembly_provirus_features.tsv (provirus feature data: tabular format)                                                                                       │
+│    ├── 738C.assembly_provirus_features.npz (provirus feature data: binary format)                                                                                        │
+│    ├── 738C.assembly_provirus_marker_classification.tsv (provirus classification: tabular format)                                                                        │
+│    └── 738C.assembly_provirus_marker_classification.npz (provirus classification: binary format)                                                                         │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+[07:34:50] Executing genomad marker-classification.                                                                                                                         
+[07:34:50] Creating the 738C.assembly_marker_classification directory.                                                                                                      
+[07:34:51] Sequence features computed.                                                                                                                                      
+[07:34:51] Sequence features in binary format written to 738C.assembly_features.npz.                                                                                        
+[07:34:51] Sequence features in tabular format written to 738C.assembly_features.tsv.                                                                                       
+[07:34:52] Provirus features computed.                                                                                                                                      
+[07:34:52] Provirus features in binary format written to 738C.assembly_provirus_features.npz.                                                                               
+[07:34:52] Provirus features in tabular format written to 738C.assembly_provirus_features.tsv.                                                                              
+[07:34:52] Sequences classified.                                                                                                                                            
+[07:34:52] Sequence classification in binary format written to 738C.assembly_marker_classification.npz.                                                                     
+[07:34:52] Sequence classification in tabular format written to 738C.assembly_marker_classification.tsv.                                                                    
+[07:34:52] Proviruses classified.                                                                                                                                           
+[07:34:52] Provirus classification in binary format written to 738C.assembly_provirus_marker_classification.npz.                                                            
+[07:34:52] Provirus classification in tabular format written to 738C.assembly_provirus_marker_classification.tsv.                                                           
+[07:34:52] geNomad marker-classification finished!                                                                                                                          

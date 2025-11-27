@@ -1,0 +1,7 @@
+{
+    "module": "aggregated_classification",
+    "input": "WHRI_6380_(NCPPB_404).fasta",
+    "input_md5": "a866eb0a4251553754b7f389bbed4249",
+    "start_time": "2025-11-27T11:32:34.980404+00:00",
+    "parameters": {}
+}

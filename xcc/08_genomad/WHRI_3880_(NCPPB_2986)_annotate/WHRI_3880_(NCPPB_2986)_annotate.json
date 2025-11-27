@@ -1,0 +1,11 @@
+{
+    "module": "annotate",
+    "input": "WHRI_3880_(NCPPB_2986).fasta",
+    "input_md5": "c70ab9a460d0454a6f047c8639d8bf50",
+    "start_time": "2025-11-27T08:28:05.508797+00:00",
+    "parameters": {
+        "use_minimal_db": false,
+        "sensitivity": 4.2,
+        "evalue": 0.001
+    }
+}

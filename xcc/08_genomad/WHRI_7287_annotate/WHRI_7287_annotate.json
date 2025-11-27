@@ -1,0 +1,11 @@
+{
+    "module": "annotate",
+    "input": "WHRI_7287.fasta",
+    "input_md5": "eb2b900218bf56c66c9a13acd5e4e0d4",
+    "start_time": "2025-11-27T12:03:02.758247+00:00",
+    "parameters": {
+        "use_minimal_db": false,
+        "sensitivity": 4.2,
+        "evalue": 0.001
+    }
+}

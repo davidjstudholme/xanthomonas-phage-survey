@@ -1,0 +1,4 @@
+JAYIQO010000004.1_14 # 12288 # 13799 # -1 # ID=4_14;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.608	PF00589.RP35	5.646E-12	58
+JAYIQO010000030.1_2 # 535 # 1740 # 1 # ID=30_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.632	PF00589.seed	1.668E-22	91
+JAYIQO010000002.1_149 # 164282 # 165253 # 1 # ID=2_149;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.697	TIGR02225	2.688E-116	364
+JAYIQO010000004.1_4 # 1914 # 3311 # 1 # ID=4_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.575	PF00589.RP35	7.007E-14	64

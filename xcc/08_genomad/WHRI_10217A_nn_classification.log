@@ -1,0 +1,19 @@
+╭──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│  Executing geNomad nn-classification (v1.11.1). This will classify the input sequences into chromosome, plasmid, or virus based on the nucleotide sequence.              │
+│  ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────  │
+│  Outputs:                                                                                                                                                                │
+│    WHRI_10217A_nn_classification                                                                                                                                         │
+│    ├── WHRI_10217A_nn_classification.json (execution parameters)                                                                                                         │
+│    ├── WHRI_10217A_encoded_sequences (directory containing encoded sequence data)                                                                                        │
+│    ├── WHRI_10217A_nn_classification.tsv (contig classification: tabular format)                                                                                         │
+│    └── WHRI_10217A_nn_classification.npz (contig classification: binary format)                                                                                          │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+[08:06:46] Executing genomad nn-classification.                                                                                                                             
+[08:06:46] Creating the WHRI_10217A_nn_classification directory.                                                                                                            
+[08:06:46] Creating the WHRI_10217A_nn_classification/WHRI_10217A_encoded_sequences directory.                                                                              
+[08:06:47] Encoded sequence data written to WHRI_10217A_encoded_sequences.                                                                                                  
+[08:06:55] Sequences classified.                                                                                                                                            
+[08:06:55] Sequence classification in binary format written to WHRI_10217A_nn_classification.npz.                                                                           
+[08:06:55] Deleting encoded sequence data.                                                                                                                                  
+[08:06:55] Sequence classification in tabular format written to WHRI_10217A_nn_classification.tsv.                                                                          
+[08:06:55] geNomad nn-classification finished!                                                                                                                              

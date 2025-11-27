@@ -1,0 +1,13 @@
+JAYISS010000001.1_186 # 205955 # 206968 # 1 # ID=1_186;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.668	TIGR02249	1.525E-165	507
+JAYISS010000001.1_234 # 258176 # 258622 # 1 # ID=1_234;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.597	PRK09692	2.527E-15	63
+JAYISS010000022.1_63 # 82123 # 83652 # 1 # ID=22_63;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.620	PF00589.RP35	8.263E-14	64
+JAYISS010000002.1_326 # 371866 # 373260 # -1 # ID=2_326;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.595	PF00589.RP35	1.994E-15	69
+JAYISS010000010.1_93 # 122047 # 123276 # -1 # ID=10_93;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.614	PRK09692	3.363E-73	243
+JAYISS010000022.1_72 # 89585 # 90985 # -1 # ID=22_72;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.610	PF00589.RP35	3.458E-14	65
+JAYISS010000028.1_3 # 3189 # 4436 # -1 # ID=28_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.506	PF00589.RP35	1.336E-14	66
+JAYISS010000017.1_18 # 29653 # 30624 # -1 # ID=17_18;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.709	TIGR02225	2.463E-117	367
+JAYISS010000007.1_146 # 165739 # 166929 # 1 # ID=7_146;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.589	PRK09692	7.331E-43	153
+JAYISS010000019.1_3 # 1182 # 2651 # -1 # ID=19_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.597	PF00589.RP35	1.093E-11	57
+JAYISS010000019.1_17 # 17979 # 19370 # 1 # ID=19_17;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.576	PF00589.RP35	9.737E-16	70
+JAYISS010000019.1_36 # 35116 # 36636 # -1 # ID=19_36;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;genetic_code=11;gc_cont=0.571	PF00589.RP35	1.386E-12	60
+JAYISS010000018.1_121 # 108688 # 109908 # -1 # ID=18_121;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.609	PF00589.RP35	5.639E-10	51

@@ -1,0 +1,24 @@
+╭──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│  Executing geNomad summary (v1.11.1). This will summarize the results across modules into a classification report.                                                       │
+│  ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────  │
+│  Outputs:                                                                                                                                                                │
+│    738C.assembly_summary                                                                                                                                                 │
+│    ├── 738C.assembly_summary.json (execution parameters)                                                                                                                 │
+│    ├── 738C.assembly_virus_summary.tsv (virus classification summary)                                                                                                    │
+│    ├── 738C.assembly_plasmid_summary.tsv (plasmid classification summary)                                                                                                │
+│    ├── 738C.assembly_virus.fna (virus nucleotide FASTA file)                                                                                                             │
+│    ├── 738C.assembly_plasmid.fna (plasmid nucleotide FASTA file)                                                                                                         │
+│    ├── 738C.assembly_virus_proteins.faa (virus protein FASTA file)                                                                                                       │
+│    ├── 738C.assembly_plasmid_proteins.faa (plasmid protein FASTA file)                                                                                                   │
+│    ├── 738C.assembly_virus_genes.tsv (virus gene annotation data)                                                                                                        │
+│    └── 738C.assembly_plasmid_genes.tsv (plasmid gene annotation data)                                                                                                    │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+[07:35:05] Executing genomad summary.                                                                                                                                       
+[07:35:05] Creating the 738C.assembly_summary directory.                                                                                                                    
+[07:35:05] Using scores from aggregated-classification.                                                                                                                     
+[07:35:05] 15 plasmid(s) and 2 virus(es) were identified.                                                                                                                   
+[07:35:05] Nucleotide sequences were written to 738C.assembly_plasmid.fna and 738C.assembly_virus.fna.                                                                      
+[07:35:05] Protein sequences were written to 738C.assembly_plasmid_proteins.faa and 738C.assembly_virus_proteins.faa.                                                       
+[07:35:05] Gene annotation data was written to 738C.assembly_plasmid_genes.tsv and 738C.assembly_virus_genes.tsv.                                                           
+[07:35:05] Summary files were written to 738C.assembly_plasmid_summary.tsv and 738C.assembly_virus_summary.tsv.                                                             
+[07:35:05] geNomad summary finished!                                                                                                                                        

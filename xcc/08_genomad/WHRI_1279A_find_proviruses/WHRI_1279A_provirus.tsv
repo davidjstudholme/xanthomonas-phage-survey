@@ -1,0 +1,2 @@
+seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
+RRXO01000029.1|provirus_34830_41084	RRXO01000029.1	34830	41084	6255	12	16.2876	False	NA

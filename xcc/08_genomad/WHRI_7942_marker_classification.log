@@ -1,0 +1,31 @@
+╭──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│  Executing geNomad marker-classification (v1.11.1). This will classify the input sequences into chromosome, plasmid, or virus based on the presence of geNomad markers   │
+│  and other gene-related features.                                                                                                                                        │
+│  ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────  │
+│  Outputs:                                                                                                                                                                │
+│    WHRI_7942_marker_classification                                                                                                                                       │
+│    ├── WHRI_7942_marker_classification.json (execution parameters)                                                                                                       │
+│    ├── WHRI_7942_features.tsv (sequence feature data: tabular format)                                                                                                    │
+│    ├── WHRI_7942_features.npz (sequence feature data: binary format)                                                                                                     │
+│    ├── WHRI_7942_marker_classification.tsv (sequence classification: tabular format)                                                                                     │
+│    ├── WHRI_7942_marker_classification.npz (sequence classification: binary format)                                                                                      │
+│    ├── WHRI_7942_provirus_features.tsv (provirus feature data: tabular format)                                                                                           │
+│    ├── WHRI_7942_provirus_features.npz (provirus feature data: binary format)                                                                                            │
+│    ├── WHRI_7942_provirus_marker_classification.tsv (provirus classification: tabular format)                                                                            │
+│    └── WHRI_7942_provirus_marker_classification.npz (provirus classification: binary format)                                                                             │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+[12:30:22] Executing genomad marker-classification.                                                                                                                         
+[12:30:22] Creating the WHRI_7942_marker_classification directory.                                                                                                          
+[12:30:23] Sequence features computed.                                                                                                                                      
+[12:30:23] Sequence features in binary format written to WHRI_7942_features.npz.                                                                                            
+[12:30:23] Sequence features in tabular format written to WHRI_7942_features.tsv.                                                                                           
+[12:30:23] Provirus features computed.                                                                                                                                      
+[12:30:23] Provirus features in binary format written to WHRI_7942_provirus_features.npz.                                                                                   
+[12:30:23] Provirus features in tabular format written to WHRI_7942_provirus_features.tsv.                                                                                  
+[12:30:24] Sequences classified.                                                                                                                                            
+[12:30:24] Sequence classification in binary format written to WHRI_7942_marker_classification.npz.                                                                         
+[12:30:24] Sequence classification in tabular format written to WHRI_7942_marker_classification.tsv.                                                                        
+[12:30:24] Proviruses classified.                                                                                                                                           
+[12:30:24] Provirus classification in binary format written to WHRI_7942_provirus_marker_classification.npz.                                                                
+[12:30:24] Provirus classification in tabular format written to WHRI_7942_provirus_marker_classification.tsv.                                                               
+[12:30:24] geNomad marker-classification finished!                                                                                                                          

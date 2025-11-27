@@ -1,0 +1,8 @@
+gene	start	end	length	strand	gc_content	genetic_code	rbs_motif	marker	evalue	bitscore	uscg	plasmid_hallmark	virus_hallmark	taxid	taxname	annotation_conjscan	annotation_amr	annotation_accessions	annotation_description
+JAUINC010000092.1_1	1	576	576	1	0.571	11	None	GENOMAD.222675.VP	4.092e-130	408	0	0	0	2773	Inoviridae	NA	NA	NA	NA
+JAUINC010000092.1_2	573	869	297	1	0.576	11	GGA/GAG/AGG	GENOMAD.222243.VP	1.126e-48	168	0	0	1	2773	Inoviridae	NA	NA	PF02303	Helix-destabilising protein
+JAUINC010000092.1_3	873	1124	252	1	0.619	11	GGA/GAG/AGG	GENOMAD.148914.VV	4.547e-20	85	0	0	1	1	NA	NA	NA	PF17091	Inovirus G7P protein
+JAUINC010000092.1_4	1152	1280	129	1	0.581	11	AGGAG	GENOMAD.112093.VV	2.595e-14	66	0	0	0	1	NA	NA	NA	NA	NA
+JAUINC010000092.1_5	1413	2069	657	1	0.604	11	GGA/GAG/AGG	GENOMAD.097192.VV	1.494e-16	81	0	0	0	2773	Inoviridae	NA	NA	NA	NA
+JAUINC010000106.1_1	21	359	339	-1	0.652	11	GGA/GAG/AGG	GENOMAD.212325.VP	4.022e-50	173	0	0	1	2773	Inoviridae	NA	NA	PF12375;PF12472	Phage protein; Phage related protein
+JAUINC010000106.1_2	392	859	468	1	0.596	11	GGAGG	GENOMAD.212325.VP	1.821e-37	139	0	0	1	2773	Inoviridae	NA	NA	PF12375;PF12472	Phage protein; Phage related protein

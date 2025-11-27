@@ -1,0 +1,14 @@
+╭──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│  Executing geNomad annotate (v1.11.1). This will perform gene calling in the input sequences and annotate the predicted proteins with geNomad's markers.                 │
+│  ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────  │
+│  Outputs:                                                                                                                                                                │
+│    WHRI_8021_annotate                                                                                                                                                    │
+│    ├── WHRI_8021_annotate.json (execution parameters)                                                                                                                    │
+│    ├── WHRI_8021_genes.tsv (gene annotation data)                                                                                                                        │
+│    ├── WHRI_8021_taxonomy.tsv (taxonomic assignment)                                                                                                                     │
+│    ├── WHRI_8021_mmseqs2.tsv (MMseqs2 output file)                                                                                                                       │
+│    └── WHRI_8021_proteins.faa (protein FASTA file)                                                                                                                       │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+[12:36:11] Executing genomad annotate.                                                                                                                                      
+[12:36:11] Creating the WHRI_8021_annotate directory.                                                                                                                       
+[12:36:15] Proteins predicted with pyrodigal-gv were written to WHRI_8021_proteins.faa.                                                                                     

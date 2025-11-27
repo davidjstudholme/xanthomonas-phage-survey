@@ -1,0 +1,18 @@
+{
+    "module": "summary",
+    "input": "WHRI_7809.fasta",
+    "input_md5": "e402bbacf52ed5d8d8dd68c64ac79217",
+    "start_time": "2025-11-27T12:27:53.684778+00:00",
+    "parameters": {
+        "min_score": 0.7,
+        "max_fdr": 0.1,
+        "min_number_genes": 1,
+        "min_plasmid_hallmarks": 0,
+        "min_plasmid_hallmarks_short_seqs": 1,
+        "min_virus_hallmarks": 0,
+        "min_virus_hallmarks_short_seqs": 1,
+        "min_plasmid_marker_enrichment": 0.1,
+        "min_virus_marker_enrichment": 0.0,
+        "max_uscg": 4
+    }
+}

@@ -1,0 +1,2 @@
+seq_name	length	topology	coordinates	n_genes	genetic_code	virus_score	fdr	n_hallmarks	marker_enrichment	taxonomy
+JAYIWL010000011.1|provirus_200366_249574	49209	Provirus	200366-249574	55	11	0.9986	NA	8	43.5351	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;

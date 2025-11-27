@@ -1,0 +1,2 @@
+seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
+JAUIOZ010000036.1|provirus_12098_26566	JAUIOZ010000036.1	12098	26566	14469	21	15.4546	False	JAUIOZ010000036.1|provirus_12098_26566_10

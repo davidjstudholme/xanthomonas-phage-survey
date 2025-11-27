@@ -1,0 +1,2 @@
+seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
+JAYIMG010000051.1|provirus_12098_22398	JAYIMG010000051.1	12098	22398	10301	15	9.0067	True	JAYIMG010000051.1|provirus_12098_22398_10

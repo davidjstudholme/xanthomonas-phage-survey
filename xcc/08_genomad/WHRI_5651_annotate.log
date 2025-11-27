@@ -1,0 +1,19 @@
+╭──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│  Executing geNomad annotate (v1.11.1). This will perform gene calling in the input sequences and annotate the predicted proteins with geNomad's markers.                 │
+│  ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────  │
+│  Outputs:                                                                                                                                                                │
+│    WHRI_5651_annotate                                                                                                                                                    │
+│    ├── WHRI_5651_annotate.json (execution parameters)                                                                                                                    │
+│    ├── WHRI_5651_genes.tsv (gene annotation data)                                                                                                                        │
+│    ├── WHRI_5651_taxonomy.tsv (taxonomic assignment)                                                                                                                     │
+│    ├── WHRI_5651_mmseqs2.tsv (MMseqs2 output file)                                                                                                                       │
+│    └── WHRI_5651_proteins.faa (protein FASTA file)                                                                                                                       │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+[09:13:14] Executing genomad annotate.                                                                                                                                      
+[09:13:14] Creating the WHRI_5651_annotate directory.                                                                                                                       
+[09:13:17] Proteins predicted with pyrodigal-gv were written to WHRI_5651_proteins.faa.                                                                                     
+[09:14:14] Proteins annotated with MMseqs2 and geNomad database (v1.9) were written to WHRI_5651_mmseqs2.tsv.                                                               
+[09:14:14] Deleting WHRI_5651_mmseqs2.                                                                                                                                      
+[09:14:15] Gene data was written to WHRI_5651_genes.tsv.                                                                                                                    
+[09:14:15] Taxonomic assignment data was written to WHRI_5651_taxonomy.tsv.                                                                                                 
+[09:14:15] geNomad annotate finished!                                                                                                                                       

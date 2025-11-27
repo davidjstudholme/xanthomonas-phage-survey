@@ -1,0 +1,3 @@
+seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
+JAUINJ010000039.1|provirus_3_4961	JAUINJ010000039.1	3	4961	4959	9	11.2279	True	NA
+JAUINJ010000060.1|provirus_63_6476	JAUINJ010000060.1	63	6476	6414	12	17.7524	True	NA

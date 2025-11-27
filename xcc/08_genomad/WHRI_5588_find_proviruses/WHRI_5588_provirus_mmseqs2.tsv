@@ -1,0 +1,5 @@
+JAUIPY010000001.1_36 # 39270 # 40241 # 1 # ID=1_36;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.704	TIGR02225	2.463E-117	367
+JAUIPY010000029.1_55 # 61079 # 62326 # 1 # ID=29_55;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.505	PF00589.RP35	1.336E-14	66
+JAUIPY010000014.1_11 # 9853 # 11319 # -1 # ID=14_11;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.605	PF00589.RP35	4.484E-11	55
+JAUIPY010000018.1_68 # 86982 # 88100 # -1 # ID=18_68;partial=00;start_type=TTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.592	PF00589.RP35	2.013E-09	49
+JAUIPY010000026.1_52 # 69030 # 70763 # 1 # ID=26_52;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.582	PRK09692	3.959E-56	198

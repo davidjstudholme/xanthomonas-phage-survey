@@ -1,0 +1,2 @@
+seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
+JAUIPJ010000037.1|provirus_12098_24576	JAUIPJ010000037.1	12098	24576	12479	16	13.7363	False	JAUIPJ010000037.1|provirus_12098_24576_10

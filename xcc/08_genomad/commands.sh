@@ -5,7 +5,7 @@ conda create -n genomad_env
 conda activate genomad_env
 conda install bioconda::genomad
 genomad download-database .
-for i in *.fasta ; do echo $i; genomad end-to-end --cleanup --splits 8 $i genomad genomad_db; done
+for i in *.fasta ; do echo $i; genomad end-to-end --cleanup --splits 8 $i . genomad_db; done
 
 
 

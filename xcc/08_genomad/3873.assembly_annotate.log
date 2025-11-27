@@ -1,0 +1,19 @@
+╭──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│  Executing geNomad annotate (v1.11.1). This will perform gene calling in the input sequences and annotate the predicted proteins with geNomad's markers.                 │
+│  ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────  │
+│  Outputs:                                                                                                                                                                │
+│    3873.assembly_annotate                                                                                                                                                │
+│    ├── 3873.assembly_annotate.json (execution parameters)                                                                                                                │
+│    ├── 3873.assembly_genes.tsv (gene annotation data)                                                                                                                    │
+│    ├── 3873.assembly_taxonomy.tsv (taxonomic assignment)                                                                                                                 │
+│    ├── 3873.assembly_mmseqs2.tsv (MMseqs2 output file)                                                                                                                   │
+│    └── 3873.assembly_proteins.faa (protein FASTA file)                                                                                                                   │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+[07:32:18] Executing genomad annotate.                                                                                                                                      
+[07:32:18] Creating the 3873.assembly_annotate directory.                                                                                                                   
+[07:32:21] Proteins predicted with pyrodigal-gv were written to 3873.assembly_proteins.faa.                                                                                 
+[07:33:19] Proteins annotated with MMseqs2 and geNomad database (v1.9) were written to 3873.assembly_mmseqs2.tsv.                                                           
+[07:33:19] Deleting 3873.assembly_mmseqs2.                                                                                                                                  
+[07:33:20] Gene data was written to 3873.assembly_genes.tsv.                                                                                                                
+[07:33:20] Taxonomic assignment data was written to 3873.assembly_taxonomy.tsv.                                                                                             
+[07:33:20] geNomad annotate finished!                                                                                                                                       

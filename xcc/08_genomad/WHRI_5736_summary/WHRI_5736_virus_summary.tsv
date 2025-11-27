@@ -1,0 +1,4 @@
+seq_name	length	topology	coordinates	n_genes	genetic_code	virus_score	fdr	n_hallmarks	marker_enrichment	taxonomy
+JAUINT010000057.1|provirus_63_6476	6414	Provirus	63-6476	12	11	0.9997	NA	3	15.4819	Viruses;Monodnaviria;Loebvirae;Hofneiviricota;Faserviricetes;Tubulavirales;Inoviridae
+JAUINT010000105.1	1014	No terminal repeats	NA	2	11	0.9990	NA	2	2.6409	Viruses;Monodnaviria;Loebvirae;Hofneiviricota;Faserviricetes;Tubulavirales;Inoviridae
+JAUINT010000042.1|provirus_3_4961	4959	Provirus	3-4961	9	11	0.9912	NA	2	9.6144	Viruses;Monodnaviria;Loebvirae;Hofneiviricota;Faserviricetes;Tubulavirales;Inoviridae

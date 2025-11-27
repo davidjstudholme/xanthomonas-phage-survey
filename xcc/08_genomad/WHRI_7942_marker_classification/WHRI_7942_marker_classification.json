@@ -1,0 +1,7 @@
+{
+    "module": "marker_classification",
+    "input": "WHRI_7942.fasta",
+    "input_md5": "6dc4ae15a64cee27efc4d8c1df2c68ca",
+    "start_time": "2025-11-27T12:30:22.524305+00:00",
+    "parameters": {}
+}

@@ -1,0 +1,14 @@
+JAYIOW010000010.1_93 # 122047 # 123276 # -1 # ID=10_93;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.614	PRK09692	3.363E-73	243
+JAYIOW010000016.1_114 # 122074 # 123543 # 1 # ID=16_114;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.597	PF00589.RP35	1.093E-11	57
+JAYIOW010000009.1_146 # 165718 # 166908 # 1 # ID=9_146;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.589	PRK09692	7.331E-43	153
+JAYIOW010000016.1_122 # 129283 # 130683 # -1 # ID=16_122;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.597	PF00589.RP35	7.036E-14	64
+JAYIOW010000001.1_118 # 147200 # 147646 # -1 # ID=1_118;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.600	PRK09692	2.527E-15	63
+JAYIOW010000004.1_88 # 98232 # 99203 # 1 # ID=4_88;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.709	TIGR02225	2.463E-117	367
+JAYIOW010000029.1_3 # 3189 # 4436 # -1 # ID=29_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.506	PF00589.RP35	1.336E-14	66
+JAYIOW010000019.1_63 # 82123 # 83652 # 1 # ID=19_63;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.620	PF00589.RP35	8.263E-14	64
+JAYIOW010000016.1_100 # 105345 # 106736 # -1 # ID=16_100;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.576	PF00589.RP35	9.737E-16	70
+JAYIOW010000001.1_166 # 198854 # 199867 # -1 # ID=1_166;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.666	TIGR02249	7.520E-165	505
+JAYIOW010000003.1_104 # 116335 # 117543 # 1 # ID=3_104;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.621	PRK09692	2.305E-61	208
+JAYIOW010000019.1_72 # 89585 # 90985 # -1 # ID=19_72;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.610	PF00589.RP35	3.458E-14	65
+JAYIOW010000005.1_113 # 136873 # 138267 # -1 # ID=5_113;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.595	PF00589.RP35	1.994E-15	69
+JAYIOW010000016.1_81 # 88079 # 89599 # 1 # ID=16_81;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;genetic_code=11;gc_cont=0.571	PF00589.RP35	1.386E-12	60

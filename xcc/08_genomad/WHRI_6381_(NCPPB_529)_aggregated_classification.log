@@ -1,0 +1,17 @@
+╭──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│  Executing geNomad aggregated-classification (v1.11.1). This will aggregate the results of the marker-classification and nn-classification modules to classify the       │
+│  input sequences into chromosome, plasmid, or virus.                                                                                                                     │
+│  ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────  │
+│  Outputs:                                                                                                                                                                │
+│    WHRI_6381_(NCPPB_529)_aggregated_classification                                                                                                                       │
+│    ├── WHRI_6381_(NCPPB_529)_aggregated_classification.json (execution parameters)                                                                                       │
+│    ├── WHRI_6381_(NCPPB_529)_aggregated_classification.tsv (sequence classification: tabular format)                                                                     │
+│    └── WHRI_6381_(NCPPB_529)_aggregated_classification.npz (sequence classification: binary format)                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+[11:33:55] Executing genomad aggregated-classification.                                                                                                                     
+[11:33:55] Creating the WHRI_6381_(NCPPB_529)_aggregated_classification directory.                                                                                          
+[11:33:55] The total marker frequencies of the input sequences were computed.                                                                                               
+[11:33:55] Sequences classified.                                                                                                                                            
+[11:33:55] Sequence classification in binary format written to WHRI_6381_(NCPPB_529)_aggregated_classification.npz.                                                         
+[11:33:55] Sequence classification in tabular format written to WHRI_6381_(NCPPB_529)_aggregated_classification.tsv.                                                        
+[11:33:55] geNomad aggregated-classification finished!                                                                                                                      

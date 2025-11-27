@@ -1,0 +1,24 @@
+╭──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│  Executing geNomad summary (v1.11.1). This will summarize the results across modules into a classification report.                                                       │
+│  ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────  │
+│  Outputs:                                                                                                                                                                │
+│    WHRI_7277_summary                                                                                                                                                     │
+│    ├── WHRI_7277_summary.json (execution parameters)                                                                                                                     │
+│    ├── WHRI_7277_virus_summary.tsv (virus classification summary)                                                                                                        │
+│    ├── WHRI_7277_plasmid_summary.tsv (plasmid classification summary)                                                                                                    │
+│    ├── WHRI_7277_virus.fna (virus nucleotide FASTA file)                                                                                                                 │
+│    ├── WHRI_7277_plasmid.fna (plasmid nucleotide FASTA file)                                                                                                             │
+│    ├── WHRI_7277_virus_proteins.faa (virus protein FASTA file)                                                                                                           │
+│    ├── WHRI_7277_plasmid_proteins.faa (plasmid protein FASTA file)                                                                                                       │
+│    ├── WHRI_7277_virus_genes.tsv (virus gene annotation data)                                                                                                            │
+│    └── WHRI_7277_plasmid_genes.tsv (plasmid gene annotation data)                                                                                                        │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+[11:54:42] Executing genomad summary.                                                                                                                                       
+[11:54:42] Creating the WHRI_7277_summary directory.                                                                                                                        
+[11:54:42] Using scores from aggregated-classification.                                                                                                                     
+[11:54:42] 10 plasmid(s) and 2 virus(es) were identified.                                                                                                                   
+[11:54:42] Nucleotide sequences were written to WHRI_7277_plasmid.fna and WHRI_7277_virus.fna.                                                                              
+[11:54:42] Protein sequences were written to WHRI_7277_plasmid_proteins.faa and WHRI_7277_virus_proteins.faa.                                                               
+[11:54:42] Gene annotation data was written to WHRI_7277_plasmid_genes.tsv and WHRI_7277_virus_genes.tsv.                                                                   
+[11:54:42] Summary files were written to WHRI_7277_plasmid_summary.tsv and WHRI_7277_virus_summary.tsv.                                                                     
+[11:54:42] geNomad summary finished!                                                                                                                                        

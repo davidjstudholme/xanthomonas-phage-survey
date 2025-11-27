@@ -1,0 +1,4 @@
+24_50 # 66826 # 68706 # 1 # ID=24_50;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.578	PRK09692	9.502E-56	198
+11_1 # 300 # 1295 # 1 # ID=11_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.551	PF00589.RP35	9.228E-17	72
+2_17 # 18968 # 20293 # -1 # ID=2_17;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.585	PF00589.RP35	2.215E-12	59
+11_20 # 18559 # 20019 # -1 # ID=11_20;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.591	PF00589.RP35	2.628E-12	59

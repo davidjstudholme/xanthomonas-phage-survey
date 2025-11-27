@@ -1,0 +1,2 @@
+seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
+33|provirus_34704_42000	33	34704	42000	7297	14	19.6172	False	NA

@@ -1,0 +1,2 @@
+seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
+JAUIPB010000035.1|provirus_15853_23855	JAUIPB010000035.1	15853	23855	8003	14	16.2876	False	NA

@@ -1,0 +1,28 @@
+╭──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│  Executing geNomad find-proviruses (v1.11.1). This will find putative proviral regions within the input sequences.                                                       │
+│  ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────  │
+│  Outputs:                                                                                                                                                                │
+│    738C.assembly_find_proviruses                                                                                                                                         │
+│    ├── 738C.assembly_find_proviruses.json (execution parameters)                                                                                                         │
+│    ├── 738C.assembly_provirus.tsv (provirus data)                                                                                                                        │
+│    ├── 738C.assembly_provirus.fna (provirus nucleotide sequences)                                                                                                        │
+│    ├── 738C.assembly_provirus_proteins.faa (provirus protein sequences)                                                                                                  │
+│    ├── 738C.assembly_provirus_genes.tsv (provirus gene annotation data)                                                                                                  │
+│    ├── 738C.assembly_provirus_taxonomy.tsv (provirus taxonomic assignment)                                                                                               │
+│    ├── 738C.assembly_provirus_mmseqs2.tsv (MMseqs2 output file)                                                                                                          │
+│    └── 738C.assembly_provirus_aragorn.tsv (Aragorn output file)                                                                                                          │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+[07:34:46] Executing genomad find-proviruses.                                                                                                                               
+[07:34:46] Creating the 738C.assembly_find_proviruses directory.                                                                                                            
+[07:34:49] Integrases identified with MMseqs2 and geNomad database (v1.9) were written to 738C.assembly_provirus_mmseqs2.tsv.                                               
+[07:34:49] Deleting 738C.assembly_provirus_mmseqs2.                                                                                                                         
+[07:34:49] Deleting 738C.assembly_provirus_mmseqs2_input.faa.                                                                                                               
+[07:34:49] tRNAs identified with Aragorn were written to 738C.assembly_provirus_aragorn.tsv.                                                                                
+[07:34:49] Deleting 738C.assembly_provirus_aragorn_input.fna.                                                                                                               
+[07:34:50] Provirus regions identified.                                                                                                                                     
+[07:34:50] Provirus data was written to 738C.assembly_provirus.tsv.                                                                                                         
+[07:34:50] Provirus nucleotide sequences were written to 738C.assembly_provirus.fna.                                                                                        
+[07:34:50] Provirus protein sequences were written to 738C.assembly_provirus_proteins.faa.                                                                                  
+[07:34:50] Provirus gene data was written to 738C.assembly_provirus_genes.tsv.                                                                                              
+[07:34:50] Taxonomic assignment data was written to 738C.assembly_provirus_taxonomy.tsv.                                                                                    
+[07:34:50] geNomad find-proviruses finished!                                                                                                                                

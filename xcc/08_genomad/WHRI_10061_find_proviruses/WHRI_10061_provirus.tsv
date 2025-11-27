@@ -1,0 +1,2 @@
+seq_name	source_seq	start	end	length	n_genes	v_vs_c_score	in_seq_edge	integrases
+JAYIOS010000038.1|provirus_9878_17399	JAYIOS010000038.1	9878	17399	7522	14	17.6695	True	NA

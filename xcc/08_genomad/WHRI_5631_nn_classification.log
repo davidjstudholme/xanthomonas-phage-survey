@@ -1,0 +1,19 @@
+╭──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│  Executing geNomad nn-classification (v1.11.1). This will classify the input sequences into chromosome, plasmid, or virus based on the nucleotide sequence.              │
+│  ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────  │
+│  Outputs:                                                                                                                                                                │
+│    WHRI_5631_nn_classification                                                                                                                                           │
+│    ├── WHRI_5631_nn_classification.json (execution parameters)                                                                                                           │
+│    ├── WHRI_5631_encoded_sequences (directory containing encoded sequence data)                                                                                          │
+│    ├── WHRI_5631_nn_classification.tsv (contig classification: tabular format)                                                                                           │
+│    └── WHRI_5631_nn_classification.npz (contig classification: binary format)                                                                                            │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+[09:13:03] Executing genomad nn-classification.                                                                                                                             
+[09:13:03] Creating the WHRI_5631_nn_classification directory.                                                                                                              
+[09:13:03] Creating the WHRI_5631_nn_classification/WHRI_5631_encoded_sequences directory.                                                                                  
+[09:13:04] Encoded sequence data written to WHRI_5631_encoded_sequences.                                                                                                    
+[09:13:11] Sequences classified.                                                                                                                                            
+[09:13:11] Sequence classification in binary format written to WHRI_5631_nn_classification.npz.                                                                             
+[09:13:11] Deleting encoded sequence data.                                                                                                                                  
+[09:13:11] Sequence classification in tabular format written to WHRI_5631_nn_classification.tsv.                                                                            
+[09:13:11] geNomad nn-classification finished!                                                                                                                              

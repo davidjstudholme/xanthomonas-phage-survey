@@ -1,0 +1,18 @@
+{
+    "module": "find-proviruses",
+    "input": "WHRI_7281.fasta",
+    "input_md5": "1d24dfd7947409ab39d54b93fce020b2",
+    "start_time": "2025-11-27T11:57:11.524492+00:00",
+    "parameters": {
+        "skip_integrase_identification": false,
+        "skip_trna_identification": false,
+        "crf_threshold": 0.4,
+        "marker_threshold": 12.0,
+        "marker_threshold_integrase": 8.0,
+        "marker_threshold_edge": 8.0,
+        "max_integrase_distance": 10000,
+        "max_trna_distance": 5000,
+        "sensitivity": 8.2,
+        "evalue": 0.001
+    }
+}
