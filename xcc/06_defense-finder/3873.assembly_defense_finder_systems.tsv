@@ -1,0 +1,15 @@
+sys_id	type	subtype	activity	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+3_RM_Type_I_13	RM	RM_Type_I	Defense	3_26	3_29	3_26,3_27,3_29	3	RM__Type_I_MTases_FAM_0,RM__Type_I_REases_FAM_0.einsi_trimmed,RM__Type_I_S_51
+5_RM_Type_I_15	RM	RM_Type_I	Defense	5_24	5_27	5_24,5_26,5_27	3	RM__Type_I_MTases_FAM_3,RM__Type_I_REases_FAM_1.einsi_trimmed,RM__Type_I_S_52
+5_pAgo_S1B_4	pAgo	pAgo_S1B	Defense	5_200	5_201	5_200,5_201	2	pAgo__SIR2APAZ,pAgo__pAgo_S1B
+7_RM_Type_III_16	RM	RM_Type_III	Defense	7_121	7_122	7_121,7_122	2	RM_Type_III__Type_III_MTases_FAM_0,RM_Type_III__Type_III_REases_FAM_1.einsi_trimmed
+7_DS-1_6	DS-1	DS-1	Defense	7_139	7_140	7_139,7_140	2	DS-1__DS-1A,DS-1__DS-1B
+8_SoFic_7	SoFIC	SoFic	Defense	8_1	8_1	8_1	1	SoFic__SoFic
+8_Wadjet_I_9	Wadjet	Wadjet_I	Defense	8_141	8_144	8_141,8_142,8_144	3	Wadjet__JetA_I,Wadjet__JetB_I,Wadjet__JetC_I
+12_Gao_Ppl_3	Gao_Ppl	Gao_Ppl	Defense	12_124	12_124	12_124	1	Gao_Ppl__PplA
+14_AbiV_11	AbiV	AbiV	Defense	14_52	14_52	14_52	1	AbiV__AbiV
+18_SoFic_10	SoFIC	SoFic	Defense	18_61	18_61	18_61	1	SoFic__SoFic
+23_Retron_XII_1	Retron	Retron_XII	Defense	23_2	23_2	23_2	1	Retron_XII__RT_12
+28_Gabija_2	Gabija	Gabija	Defense	28_28	28_29	28_28,28_29	2	Gabija__GajA,Gabija__GajB_2
+34_Zorya_TypeIII_5	Zorya	Zorya_TypeIII	Defense	34_14	34_17	34_14,34_15,34_17	3	Zorya_III__ZorF3,Zorya_III__ZorG3,Zorya__ZorB
+37_RM_Type_IIG_17	RM	RM_Type_IIG	Defense	37_1	37_1	37_1	1	RM_Type_IIG__Type_IIG_FAM_1.einsi_trimmed

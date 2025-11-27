@@ -1,0 +1,16 @@
+sys_id	type	subtype	activity	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+1_RM_Type_I_19	RM	RM_Type_I	Defense	1_114	1_117	1_114,1_115,1_117	3	RM__Type_I_MTases_FAM_3,RM__Type_I_REases_FAM_1.einsi_trimmed,RM__Type_I_S_52
+4_SoFic_9	SoFIC	SoFic	Defense	4_78	4_78	4_78	1	SoFic__SoFic
+4_AbiD_8	AbiD	AbiD	Defense	4_185	4_185	4_185	1	AbiD__AbiD
+6_Zorya_TypeI_1	Zorya	Zorya_TypeI	Defense	6_2	6_5	6_2,6_3,6_4,6_5	4	Zorya_TypeI__ZorC,Zorya_TypeI__ZorD,Zorya__ZorA,Zorya__ZorB
+7_RM_Type_I_16	RM	RM_Type_I	Defense	7_5	7_9	7_5,7_8,7_9	3	RM__Type_I_MTases_FAM_0,RM__Type_I_REases_FAM_0.einsi_trimmed,RM__Type_I_S_51
+10_Lamassu-Cap4_nuclease_5	Lamassu-Fam	Lamassu-Cap4_nuclease	Defense	10_6	10_8	10_6,10_7,10_8	3	Lamassu-Fam__LmuA_effector_Cap4_nuclease_II,Lamassu-Fam__LmuB_SMC_Cap4_nuclease_II,Lamassu-Fam__LmuC_acc_Cap4_nuclease
+11_Gao_Ppl_4	Gao_Ppl	Gao_Ppl	Defense	11_8	11_8	11_8	1	Gao_Ppl__PplA
+11_PrrC_13	PrrC	PrrC	Defense	11_69	11_73	11_69,11_71,11_72,11_73	4	PrrC__PrrC,RM__Type_I_MTases_FAM_0,RM__Type_I_REases_FAM_0.einsi_trimmed,RM__Type_I_S_51
+12_SoFic_7	SoFIC	SoFic	Defense	12_11	12_11	12_11	1	SoFic__SoFic
+16_Zorya_TypeIII_10	Zorya	Zorya_TypeIII	Defense	16_86	16_89	16_86,16_88,16_89	3	Zorya_III__ZorF3,Zorya_III__ZorG3,Zorya__ZorB
+18_RM_Type_IV_17	RM	RM_Type_IV	Defense	18_85	18_86	18_85,18_86	2	RM_Type_IV__FAM_1,RM_Type_IV__FAM_2
+25_Retron_XII_2	Retron	Retron_XII	Defense	25_1	25_1	25_1	1	Retron_XII__RT_12
+27_Wadjet_I_12	Wadjet	Wadjet_I	Defense	27_28	27_31	27_28,27_29,27_31	3	Wadjet__JetA_I,Wadjet__JetB_I,Wadjet__JetC_I
+29_Prometheus_6	Prometheus	Prometheus	Defense	29_9	29_9	29_9	1	Prometheus__ProA
+39_AbiE_3	AbiE	AbiE	Defense	39_4	39_5	39_4,39_5	2	AbiEii__AbiEi_3,AbiEii__AbiEii
