@@ -1,0 +1,1 @@
+../01_genomes/assm_accs.txt
