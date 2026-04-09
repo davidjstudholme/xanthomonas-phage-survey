@@ -1,0 +1,73 @@
+AssemblyAccession	AssemblyName	Organism	SpeciesTaxid	BioSampleAccn	ContigN50	Coverage	Strain	Pathovar	Owner	Link
+GCF_030287385.1	ASM3028738v1	Xanthomonas sp. NCPPB 2654 (g-proteobacteria)	487541	SAMN35699823	110205	350	NCPPB 2654		University of Exeter	774146
+GCF_030361385.1	ASM3036138v1	Xanthomonas fragariae (g-proteobacteria)	48664	SAMN35793974	28141	423.224	WHRI 6152		University of Exeter	985246
+GCF_030361445.1	ASM3036144v1	Xanthomonas fragariae (g-proteobacteria)	48664	SAMN35793975	27477	392.027	WHRI 6153		University of Exeter	985246
+GCF_030361465.1	ASM3036146v1	Xanthomonas fragariae (g-proteobacteria)	48664	SAMN35793970	27704	382.002	WHRI 6148		University of Exeter	985246
+GCF_030361485.1	ASM3036148v1	Xanthomonas fragariae (g-proteobacteria)	48664	SAMN35793972	28141	291.384	WHRI 6150		University of Exeter	985246
+GCF_030361495.1	ASM3036149v1	Xanthomonas fragariae (g-proteobacteria)	48664	SAMN35793973	27476	405.635	WHRI 6151		University of Exeter	985246
+GCF_030361525.1	ASM3036152v1	Xanthomonas fragariae (g-proteobacteria)	48664	SAMN35793971	28301	390.247	WHRI 6149		University of Exeter	985246
+GCF_030361555.1	ASM3036155v1	Xanthomonas fragariae (g-proteobacteria)	48664	SAMN35793969	27476	476.249	WHRI 6147		University of Exeter	985246
+GCF_034929395.1	ASM3492939v1	Xanthomonas arboricola (g-proteobacteria)	56448	SAMN36318586	99462	43	WHRI 6013		University of Exeter	991941
+GCF_035012705.1	ASM3501270v1	Xanthomonas nasturtii (g-proteobacteria)	1843581	SAMN36321433	308706	130	WHRI 10052		University of Exeter	982082
+GCF_035012725.1	ASM3501272v1	Xanthomonas sp. WHRI 10064A (g-proteobacteria)	3059649	SAMN36329570	955747	202	WHRI 10064A		University of Exeter	991976
+GCF_035012785.1	ASM3501278v1	Xanthomonas sp. WHRI 8932A (g-proteobacteria)	3059652	SAMN36329573	368604	435	WHRI 8932A		University of Exeter	991976
+GCF_035012805.1	ASM3501280v1	Xanthomonas sp. WHRI 10064B (g-proteobacteria)	3059650	SAMN36329571	956672	176	WHRI 10064B		University of Exeter	991976
+GCF_035026585.1	ASM3502658v1	Xanthomonas sp. WHRI 7945 (g-proteobacteria)	3475083	SAMN36346960	190805	312	WHRI 7945	campestris	University of Exeter	988133
+GCF_040201775.1	ASM4020177v1	Xanthomonas hortorum pv. pelargonii (g-proteobacteria)	56454	SAMN40354533	59305	193	WHRI 5648	pelargonii	University of Exeter	991976
+GCF_040201865.1	ASM4020186v1	Xanthomonas hortorum pv. pelargonii (g-proteobacteria)	56454	SAMN40354544	74492	198	WHRI 5635	pelargonii	University of Exeter	991976
+GCF_040201875.1	ASM4020187v1	Xanthomonas hortorum pv. pelargonii (g-proteobacteria)	56454	SAMN40354548	65390	166	WHRI 5649	pelargonii	University of Exeter	991976
+GCF_040201895.1	ASM4020189v1	Xanthomonas hortorum pv. pelargonii (g-proteobacteria)	56454	SAMN40354532	63230	195	WHRI 5644	pelargonii	University of Exeter	991976
+GCF_040201905.1	ASM4020190v1	Xanthomonas hortorum pv. pelargonii (g-proteobacteria)	56454	SAMN40354552	57144	184	WHRI 5726	pelargonii	University of Exeter	991976
+GCF_040201955.1	ASM4020195v1	Xanthomonas hortorum pv. hederae (g-proteobacteria)	56454	SAMN39911788	34263	192	WHRI 5690	hederae	University of Exeter	991976
+GCF_040201965.2	ASM4020196v2	Xanthomonas arboricola (g-proteobacteria)	56448	SAMN40354551	4896868	300	WHRI 5708		University of Exeter	991976
+GCF_040201975.1	ASM4020197v1	Xanthomonas hortorum pv. pelargonii (g-proteobacteria)	56454	SAMN40354546	66109	188	WHRI 5639	pelargonii	University of Exeter	991976
+GCF_040201985.1	ASM4020198v1	Xanthomonas hortorum (g-proteobacteria)	56454	SAMN40354549	35842	185	WHRI 5689A		University of Exeter	991976
+GCF_040201995.1	ASM4020199v1	Xanthomonas hortorum pv. pelargonii (g-proteobacteria)	56454	SAMN40354543	63215	169	WHRI 5616	pelargonii	University of Exeter	991976
+GCF_040202055.1	ASM4020205v1	Xanthomonas hortorum pv. pelargonii (g-proteobacteria)	56454	SAMN40354531	61550	184	WHRI 5642	pelargonii	University of Exeter	991976
+GCF_040202065.1	ASM4020206v1	Xanthomonas hortorum pv. pelargonii (g-proteobacteria)	56454	SAMN40354547	55093	188	WHRI 5641	pelargonii	University of Exeter	991976
+GCF_040202095.1	ASM4020209v1	Xanthomonas hortorum pv. pelargonii (g-proteobacteria)	56454	SAMN40354545	57244	183	WHRI 5636	pelargonii	University of Exeter	991976
+GCF_040202155.2	ASM4020215v2	Xanthomonas hortorum pv. hederae (g-proteobacteria)	56454	SAMN39911800	5461665	300	WHRI 7734A	hederae	University of Exeter	991976
+GCF_040202175.2	ASM4020217v2	Xanthomonas hortorum pv. hederae (g-proteobacteria)	56454	SAMN39911782	5725299	300	WHRI 7717B	hederae	University of Exeter	991976
+GCF_040202185.1	ASM4020218v1	Xanthomonas hortorum pv. hederae (g-proteobacteria)	56454	SAMN39911803	37234	189	WHRI 7738B	hederae	University of Exeter	991976
+GCF_040202205.1	ASM4020220v1	Xanthomonas hortorum pv. hederae (g-proteobacteria)	56454	SAMN39911802	37719	201	WHRI 7736B	hederae	University of Exeter	991976
+GCF_040202235.1	ASM4020223v1	Xanthomonas hortorum pv. hederae (g-proteobacteria)	56454	SAMN39911801	37568	194	WHRI 7735A	hederae	University of Exeter	991976
+GCF_040202255.1	ASM4020225v1	Xanthomonas hortorum pv. hederae (g-proteobacteria)	56454	SAMN39911797	35547	170	WHRI 7731A	hederae	University of Exeter	991976
+GCF_040202265.1	ASM4020226v1	Xanthomonas hortorum pv. hederae (g-proteobacteria)	56454	SAMN39911798	36322	167	WHRI 7732A	hederae	University of Exeter	991976
+GCF_040202295.1	ASM4020229v1	Xanthomonas hortorum pv. hederae (g-proteobacteria)	56454	SAMN39911796	36932	191	WHRI 7730E	hederae	University of Exeter	991976
+GCF_040202315.1	ASM4020231v1	Xanthomonas hortorum pv. hederae (g-proteobacteria)	56454	SAMN39911795	38051	185	WHRI 7726B	hederae	University of Exeter	991976
+GCF_040202325.2	ASM4020232v2	Xanthomonas hortorum pv. hederae (g-proteobacteria)	56454	SAMN39911794	5731867	300	WHRI 7724B	hederae	University of Exeter	991976
+GCF_040202355.2	ASM4020235v2	Xanthomonas sp. WHRI 7064 (g-proteobacteria)	3161568	SAMN40354563	4863839	300	WHRI 7064		University of Exeter	991976
+GCF_040202365.1	ASM4020236v1	Xanthomonas hortorum (g-proteobacteria)	56454	SAMN40354555	56104	190	WHRI 6029A		University of Exeter	991976
+GCF_040202455.2	ASM4020245v2	Xanthomonas dyei (g-proteobacteria)	743699	SAMN40354553	5354624	300	WHRI 5755		University of Exeter	991976
+GCF_040202465.1	ASM4020246v1	Xanthomonas hortorum pv. hederae (g-proteobacteria)	56454	SAMN39911784	37147	197	WHRI 5993	hederae	University of Exeter	991976
+GCF_040202495.1	ASM4020249v1	Xanthomonas sp. WHRI 8391 (g-proteobacteria)	3161573	SAMN40354569	50296	182	WHRI 8391		University of Exeter	991976
+GCF_040202515.1	ASM4020251v1	Xanthomonas hortorum pv. hederae (g-proteobacteria)	56454	SAMN39911783	37717	192	WHRI 5889	hederae	University of Exeter	991976
+GCF_040202555.2	ASM4020255v2	Xanthomonas hortorum pv. hederae (g-proteobacteria)	56454	SAMN39911799	5721286	300	WHRI 7733A	hederae	University of Exeter	991976
+GCF_040202595.1	ASM4020259v1	Xanthomonas hortorum pv. hederae (g-proteobacteria)	56454	SAMN39911804	37720	183	WHRI 7743	hederae	University of Exeter	991976
+GCF_040202615.1	ASM4020261v1	Xanthomonas sp. WHRI 8370 (g-proteobacteria)	3161572	SAMN40354568	48637	164	WHRI 8370		University of Exeter	991976
+GCA_040202635.2	ASM4020263v2	Xanthomonas hortorum pv. vitians (bacterial leaf spot pathogen of lettuce)	56454	SAMN40354556	4859315	300	WHRI 6092A	vitians	University of Exeter	991976
+GCF_040202655.1	ASM4020265v1	Xanthomonas hortorum pv. hederae (g-proteobacteria)	56454	SAMN39911793	37234	195	WHRI 7722	hederae	University of Exeter	991976
+GCF_040202665.1	ASM4020266v1	Xanthomonas hortorum pv. hederae (g-proteobacteria)	56454	SAMN39911790	36710	183	WHRI 7053B	hederae	University of Exeter	991976
+GCF_040202675.1	ASM4020267v1	Xanthomonas sp. WHRI 8356 (g-proteobacteria)	3161571	SAMN40354567	48962	173	WHRI 8356		University of Exeter	991976
+GCF_040202695.1	ASM4020269v1	Xanthomonas hortorum pv. hederae (g-proteobacteria)	56454	SAMN39911805	34263	167	WHRI 7747	hederae	University of Exeter	991976
+GCF_040202755.1	ASM4020275v1	Xanthomonas hortorum pv. hederae (g-proteobacteria)	56454	SAMN39911786	37720	180	WHRI 8090	hederae	University of Exeter	991976
+GCF_040202765.1	ASM4020276v1	Xanthomonas hortorum pv. hederae (g-proteobacteria)	56454	SAMN39911787	37779	189	WHRI 8097	hederae	University of Exeter	991976
+GCF_040202795.2	ASM4020279v2	Xanthomonas oryzae pv. oryzae (g-proteobacteria)	347	SAMN40354541	4995842	300	WHRI 5233	oryzae	University of Exeter	991976
+GCF_040202805.1	ASM4020280v1	Xanthomonas hortorum (g-proteobacteria)	56454	SAMN40354540	53347	191	WHRI 3810A		University of Exeter	991976
+GCF_040202825.1	ASM4020282v1	Xanthomonas hortorum (g-proteobacteria)	56454	SAMN40354565	35547	185	WHRI 7742		University of Exeter	991976
+GCF_040202855.1	ASM4020285v1	Xanthomonas citri pv. citri (g-proteobacteria)	346	SAMN40354539	205368	186	WHRI 10264	citri	University of Exeter	991976
+GCF_040202875.1	ASM4020287v1	Xanthomonas sp. WHRI 10204 (g-proteobacteria)	3161562	SAMN40300951	333618	175	WHRI 10204		University of Exeter	991976
+GCF_040202885.1	ASM4020288v1	Xanthomonas sp. WHRI 1810A (g-proteobacteria)	3161565	SAMN40300954	190676	184	WHRI 1810A		University of Exeter	991976
+GCF_040202935.2	ASM4020293v2	Xanthomonas citri pv. malvacearum (g-proteobacteria)	346	SAMN40354537	5254592	300	WHRI 10262	malvacearum	University of Exeter	991976
+GCF_040202945.2	ASM4020294v2	Xanthomonas citri pv. fuscans (g-proteobacteria)	346	SAMN40354538	5047948	300	WHRI 10263	fuscans	University of Exeter	991976
+GCF_040202995.2	NCPPB381v2_ONT	Xanthomonas citri pv. fuscans (g-proteobacteria)	346	SAMN40354536	5090887	300	WHRI 10261	fuscans	University of Exeter	991976
+GCF_040203025.1	ASM4020302v1	Xanthomonas hortorum pv. hederae (g-proteobacteria)	56454	SAMN39911806	36991	188	WHRI 7219	hederae	University of Exeter	991976
+GCF_040203035.1	ASM4020303v1	Xanthomonas hortorum pv. hederae (g-proteobacteria)	56454	SAMN39911807	41129	195	WHRI 7204	hederae	University of Exeter	991976
+GCF_040203075.1	ASM4020307v1	Xanthomonas hortorum (g-proteobacteria)	56454	SAMN40354560	56114	194	WHRI 6229A		University of Exeter	991976
+GCF_040203095.1	ASM4020309v1	Xanthomonas hortorum pv. hederae (g-proteobacteria)	56454	SAMN39911792	37147	190	WHRI 7720	hederae	University of Exeter	991976
+GCF_040203115.2	ASM4020311v2	Xanthomonas sp. WHRI 7065 (g-proteobacteria)	3161569	SAMN40354564	5031220	300	WHRI 7065		University of Exeter	991976
+GCF_040203125.2	WHRI64Av2_ONT	Xanthomonas dyei (g-proteobacteria)	743699	SAMN40354561	5252538	300	WHRI 64A		University of Exeter	991976
+GCF_040203135.1	ASM4020313v1	Xanthomonas arboricola (g-proteobacteria)	56448	SAMN40354562	220161	168	WHRI 7004		University of Exeter	991976
+GCF_040203145.2	ASM4020314v2	Xanthomonas hortorum pv. hederae (g-proteobacteria)	56454	SAMN39911791	5733109	300	WHRI 7714	hederae	University of Exeter	991976
+GCF_040203165.1	ASM4020316v1	Xanthomonas hortorum pv. hederae (g-proteobacteria)	56454	SAMN39911785	35843	190	WHRI 7185	hederae	University of Exeter	991976
+GCF_040203315.1	ASM4020331v1	Xanthomonas sp. WHRI 8393 (g-proteobacteria)	3161574	SAMN40354570	888300	185	WHRI 8393		University of Exeter	991976
