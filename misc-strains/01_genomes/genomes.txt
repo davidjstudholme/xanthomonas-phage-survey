@@ -1,0 +1,144 @@
+GCA_030287385.1	X. sp. NCPPB 2654	NCPPB 2654
+GCA_030361385.1	X. fragariae WHRI 6152
+GCA_030361445.1	X. fragariae WHRI 6153
+GCA_030361465.1	X. fragariae WHRI 6148
+GCA_030361485.1	X. fragariae WHRI 6150
+GCA_030361495.1	X. fragariae WHRI 6151
+GCA_030361525.1	X. fragariae WHRI 6149
+GCA_030361555.1	X. fragariae WHRI 6147
+GCA_034929395.1	X. arboricola	  WHRI 6013
+GCA_035012705.1	X. nasturtii	  WHRI 10052
+GCA_035012725.1	X. sp. WHRI 10064A     WHRI 10064A
+GCA_035012785.1	X. sp. WHRI 8932A      WHRI 8932A
+GCA_035012805.1	X. sp. WHRI 10064B     WHRI 10064B
+GCA_035026585.1	X. sp. WHRI 7945       WHRI 7945
+GCA_040201775.1	X. hortorum pv. pelargonii  WHRI 5648
+GCA_040201865.1	X. hortorum pv. pelargonii  WHRI 5635
+GCA_040201875.1	X. hortorum pv. pelargonii  WHRI 5649
+GCA_040201895.1	X. hortorum pv. pelargonii  WHRI 5644
+GCA_040201905.1	X. hortorum pv. pelargonii  WHRI 5726
+GCA_040201955.1	X. hortorum pv. hederae	    WHRI 5690
+GCA_040201965.2	X. arboricola	WHRI 5708
+GCA_040201975.1	X. hortorum pv. pelargonii	WHRI 5639
+GCA_040201985.1	X. hortorum WHRI 5689A
+GCA_040201995.1	X. hortorum pv. pelargonii	WHRI 5616
+GCA_040202055.1	X. hortorum pv. pelargonii	WHRI 5642
+GCA_040202065.1	X. hortorum pv. pelargonii	WHRI 5641
+GCA_040202095.1	X. hortorum pv. pelargonii	WHRI 5636
+GCA_040202155.2	X. hortorum pv. hederae		WHRI 7734A
+GCA_040202175.2	X. hortorum pv. hederae		WHRI 7717B
+GCA_040202185.1	X. hortorum pv. hederae		WHRI 7738B
+GCA_040202205.1	X. hortorum pv. hederae		WHRI 7736B
+GCA_040202235.1	X. hortorum pv. hederae		WHRI 7735A
+GCA_040202255.1	X. hortorum pv. hederae		WHRI 7731A
+GCA_040202265.1	X. hortorum pv. hederae		WHRI 7732A
+GCA_040202295.1	X. hortorum pv. hederae		WHRI 7730E
+GCA_040202315.1	X. hortorum pv. hederae		WHRI 7726B
+GCA_040202325.2	X. hortorum pv. hederae		WHRI 7724B
+GCA_040202355.2	X. sp. WHRI 7064		WHRI 7064
+GCA_040202365.1	X. hortorum WHRI 6029A
+GCA_040202455.2	X. dyei	    WHRI 5755
+GCA_040202465.1	X. hortorum pv. hederae	WHRI 5993
+GCA_040202495.1	X. sp. WHRI 8391	WHRI 8391
+GCA_040202515.1	X. hortorum pv. hederae	WHRI 5889
+GCA_040202555.2	X. hortorum pv. hederae	WHRI 7733A
+GCA_040202595.1	X. hortorum pv. hederae	WHRI 7743
+GCA_040202615.1	X. sp. WHRI 8370	WHRI 8370
+GCA_040202635.2	X. hortorum pv. vitians WHRI 6092A
+GCA_040202655.1	X. hortorum pv. hederae	WHRI 7722
+GCA_040202665.1	X. hortorum pv. hederae	WHRI 7053B
+GCA_040202675.1	X. sp. WHRI 8356	WHRI 8356
+GCA_040202695.1	X. hortorum pv. hederae	WHRI 7747
+GCA_040202755.1	X. hortorum pv. hederae	WHRI 8090
+GCA_040202765.1	X. hortorum pv. hederae	WHRI 8097
+GCA_040202795.2	X. oryzae pv. oryzae	WHRI 5233
+GCA_040202805.1	X. hortorum   WHRI 3810A
+GCA_040202825.1	X. hortorum   WHRI 7742
+GCA_040202855.1	X. citri pv. citri WHRI 10264
+GCA_040202875.1	X. sp. WHRI 10204  WHRI 10204
+GCA_040202885.1	X. sp. WHRI 1810A  WHRI 1810A
+GCA_040202935.2	X. citri pv. malvacearum	WHRI 10262
+GCA_040202945.2	X. citri pv. fuscans		WHRI 10263
+GCA_040202995.2	X. citri pv. fuscans		WHRI 10261
+GCA_040203025.1	X. hortorum pv. hederae		WHRI 7219
+GCA_040203035.1	X. hortorum pv. hederae		WHRI 7204
+GCA_040203075.1	X. hortorum WHRI 6229A
+GCA_040203095.1	X. hortorum pv. hederae	WHRI 7720
+GCA_040203115.2	X. sp. WHRI 7065	WHRI 7065
+GCA_040203125.2	X. dyei	    WHRI 64A
+GCA_040203135.1	X. arboricola	 WHRI 7004
+GCA_040203145.2	X. hortorum pv. hederae	WHRI 7714
+GCA_040203165.1	X. hortorum pv. hederae	WHRI 7185
+GCA_040203315.1	X. sp. WHRI 8393	WHRI 8393
+GCF_030287385.1	X. sp. NCPPB 2654	NCPPB 2654
+GCF_030361385.1	X. fragariae WHRI 6152
+GCF_030361445.1	X. fragariae WHRI 6153
+GCF_030361465.1	X. fragariae WHRI 6148
+GCF_030361485.1	X. fragariae WHRI 6150
+GCF_030361495.1	X. fragariae WHRI 6151
+GCF_030361525.1	X. fragariae WHRI 6149
+GCF_030361555.1	X. fragariae WHRI 6147
+GCF_034929395.1	X. arboricola	  WHRI 6013
+GCF_035012705.1	X. nasturtii	  WHRI 10052
+GCF_035012725.1	X. sp. WHRI 10064A     WHRI 10064A
+GCF_035012785.1	X. sp. WHRI 8932A      WHRI 8932A
+GCF_035012805.1	X. sp. WHRI 10064B     WHRI 10064B
+GCF_035026585.1	X. sp. WHRI 7945       WHRI 7945
+GCF_040201775.1	X. hortorum pv. pelargonii  WHRI 5648
+GCF_040201865.1	X. hortorum pv. pelargonii  WHRI 5635
+GCF_040201875.1	X. hortorum pv. pelargonii  WHRI 5649
+GCF_040201895.1	X. hortorum pv. pelargonii  WHRI 5644
+GCF_040201905.1	X. hortorum pv. pelargonii  WHRI 5726
+GCF_040201955.1	X. hortorum pv. hederae	    WHRI 5690
+GCF_040201965.2	X. arboricola	WHRI 5708
+GCF_040201975.1	X. hortorum pv. pelargonii	WHRI 5639
+GCF_040201985.1	X. hortorum WHRI 5689A
+GCF_040201995.1	X. hortorum pv. pelargonii	WHRI 5616
+GCF_040202055.1	X. hortorum pv. pelargonii	WHRI 5642
+GCF_040202065.1	X. hortorum pv. pelargonii	WHRI 5641
+GCF_040202095.1	X. hortorum pv. pelargonii	WHRI 5636
+GCF_040202155.2	X. hortorum pv. hederae		WHRI 7734A
+GCF_040202175.2	X. hortorum pv. hederae		WHRI 7717B
+GCF_040202185.1	X. hortorum pv. hederae		WHRI 7738B
+GCF_040202205.1	X. hortorum pv. hederae		WHRI 7736B
+GCF_040202235.1	X. hortorum pv. hederae		WHRI 7735A
+GCF_040202255.1	X. hortorum pv. hederae		WHRI 7731A
+GCF_040202265.1	X. hortorum pv. hederae		WHRI 7732A
+GCF_040202295.1	X. hortorum pv. hederae		WHRI 7730E
+GCF_040202315.1	X. hortorum pv. hederae		WHRI 7726B
+GCF_040202325.2	X. hortorum pv. hederae		WHRI 7724B
+GCF_040202355.2	X. sp. WHRI 7064		WHRI 7064
+GCF_040202365.1	X. hortorum WHRI 6029A
+GCF_040202455.2	X. dyei	    WHRI 5755
+GCF_040202465.1	X. hortorum pv. hederae	WHRI 5993
+GCF_040202495.1	X. sp. WHRI 8391	WHRI 8391
+GCF_040202515.1	X. hortorum pv. hederae	WHRI 5889
+GCF_040202555.2	X. hortorum pv. hederae	WHRI 7733A
+GCF_040202595.1	X. hortorum pv. hederae	WHRI 7743
+GCF_040202615.1	X. sp. WHRI 8370	WHRI 8370
+GCA_040202635.2	X. hortorum pv. vitians WHRI 6092A
+GCF_040202655.1	X. hortorum pv. hederae	WHRI 7722
+GCF_040202665.1	X. hortorum pv. hederae	WHRI 7053B
+GCF_040202675.1	X. sp. WHRI 8356	WHRI 8356
+GCF_040202695.1	X. hortorum pv. hederae	WHRI 7747
+GCF_040202755.1	X. hortorum pv. hederae	WHRI 8090
+GCF_040202765.1	X. hortorum pv. hederae	WHRI 8097
+GCF_040202795.2	X. oryzae pv. oryzae	WHRI 5233
+GCF_040202805.1	X. hortorum   WHRI 3810A
+GCF_040202825.1	X. hortorum   WHRI 7742
+GCF_040202855.1	X. citri pv. citri WHRI 10264
+GCF_040202875.1	X. sp. WHRI 10204  WHRI 10204
+GCF_040202885.1	X. sp. WHRI 1810A  WHRI 1810A
+GCF_040202935.2	X. citri pv. malvacearum	WHRI 10262
+GCF_040202945.2	X. citri pv. fuscans		WHRI 10263
+GCF_040202995.2	X. citri pv. fuscans		WHRI 10261
+GCF_040203025.1	X. hortorum pv. hederae		WHRI 7219
+GCF_040203035.1	X. hortorum pv. hederae		WHRI 7204
+GCF_040203075.1	X. hortorum WHRI 6229A
+GCF_040203095.1	X. hortorum pv. hederae	WHRI 7720
+GCF_040203115.2	X. sp. WHRI 7065	WHRI 7065
+GCF_040203125.2	X. dyei	    WHRI 64A
+GCF_040203135.1	X. arboricola	 WHRI 7004
+GCF_040203145.2	X. hortorum pv. hederae	WHRI 7714
+GCF_040203165.1	X. hortorum pv. hederae	WHRI 7185
+GCF_040203315.1	X. sp. WHRI 8393	WHRI 8393

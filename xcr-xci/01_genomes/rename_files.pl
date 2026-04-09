@@ -1,0 +1,1 @@
+../../xcc/01_genomes/rename_files.pl
