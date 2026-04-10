@@ -1,0 +1,8 @@
+sys_id	type	subtype	activity	sys_beg	sys_end	protein_in_syst	genes_count	name_of_profiles_in_sys
+CP167815.1_RloC_3	RloC	RloC	Defense	CP167815.1_106	CP167815.1_106	CP167815.1_106	1	RloC__RloC
+CP167815.1_SoFic_4	SoFIC	SoFic	Defense	CP167815.1_206	CP167815.1_206	CP167815.1_206	1	SoFic__SoFic
+CP167815.1_RM_Type_II_8	RM	RM_Type_II	Defense	CP167815.1_2667	CP167815.1_2669	CP167815.1_2667,CP167815.1_2668,CP167815.1_2669	3	RM_Type_II__Type_II_MTases_FAM_0,RM_Type_II__Type_II_REase09,RM_Type_II__Type_II_REase24
+CP167815.1_Old_exonuclease_2	Old_exonuclease	Old_exonuclease	Defense	CP167815.1_3188	CP167815.1_3188	CP167815.1_3188	1	Old_exonuclease__Old_exonuclease
+CP167815.1_AbiD_1	AbiD	AbiD	Defense	CP167815.1_3195	CP167815.1_3195	CP167815.1_3195	1	AbiD__AbiD
+CP167815.1_Zorya_TypeIII_7	Zorya	Zorya_TypeIII	Defense	CP167815.1_3644	CP167815.1_3647	CP167815.1_3644,CP167815.1_3646,CP167815.1_3647	3	Zorya_III__ZorF3,Zorya_III__ZorG3,Zorya__ZorB
+CP167815.1_Wadjet_I_6	Wadjet	Wadjet_I	Defense	CP167815.1_4162	CP167815.1_4164	CP167815.1_4162,CP167815.1_4163,CP167815.1_4164	3	Wadjet__JetA_I,Wadjet__JetB_I,Wadjet__JetC_I
